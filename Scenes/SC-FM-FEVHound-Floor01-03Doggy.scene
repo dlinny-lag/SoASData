@@ -1,1 +1,93 @@
-{"Id":"SC-FM-FEVHound-Floor01-03Doggy","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FEVHound","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","Aggressive","PenisToEither"],["SavageCabbage","F_FEVHoundM","NoFurn","Doggy","FromBehind","Rough","Aggressive","MidStage","Held3","Love5","Stim7","Dom-7","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["AGGRESSIVE","ROUGH"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["PENISTOEITHER"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","LOVE5","STIM7","DOM-7"],"ActorTypes":["F_FEVHOUNDM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-FEVHound-Floor01-03Doggy",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FEVHound",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "Aggressive",
+      "PenisToEither"
+    ],
+    [
+      "SavageCabbage",
+      "F_FEVHoundM",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held3",
+      "Love5",
+      "Stim7",
+      "Dom-7",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "AGGRESSIVE",
+      "ROUGH"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "PENISTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE5",
+      "STIM7",
+      "DOM-7"
+    ],
+    "ActorTypes": [
+      "F_FEVHOUNDM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,79 @@
-{"Id":"SC-FM-Gorilla-Mattress01-02Start","Type":"Single","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Gorilla","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Mattress","Neutral","Start","Held3","Stim7","Love5","Dom-5","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["MATTRESS"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["START"],"Attribute":[],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Gorilla-Mattress01-02Start",
+  "Type": "Single",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Gorilla",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Mattress",
+      "Neutral",
+      "Start",
+      "Held3",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "START"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

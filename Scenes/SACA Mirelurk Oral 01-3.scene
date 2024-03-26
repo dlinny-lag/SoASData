@@ -1,1 +1,57 @@
-{"Id":"SACA Mirelurk Oral 01-3","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Mirelurk","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["PenisToMouth","Aggressive","SACA"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SACA"],"Furniture":[],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":[],"Contact":[["PENISTOMOUTH"]],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "SACA Mirelurk Oral 01-3",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Mirelurk",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "PenisToMouth",
+      "Aggressive",
+      "SACA"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SACA"
+    ],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

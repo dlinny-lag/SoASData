@@ -1,1 +1,45 @@
-{"Id":"Atomic Flying-V (Player House Kitchen Table)","Type":"Single","Furniture":["Player House Kitchen Table"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":[],"Furniture":[],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Flying-V (Player House Kitchen Table)",
+  "Type": "Single",
+  "Furniture": [
+    "Player House Kitchen Table"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

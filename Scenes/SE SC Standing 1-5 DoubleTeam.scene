@@ -1,1 +1,68 @@
-{"Id":"SE SC Standing 1-5 DoubleTeam","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_F","NoFurn","PenisToVagina","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOVAGINA","PENISTOANUS"]],"Numeric":[],"ActorTypes":["F_M_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SE SC Standing 1-5 DoubleTeam",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_F",
+      "NoFurn",
+      "PenisToVagina",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOVAGINA",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,87 @@
-{"Id":"Gray_Spanking01Gag_S2","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","2P","NoFurn","Spanking","FromBehind","Neutral","Gagged","Held3","Stim3","Love3","Dom-3","NullToSelf","SpankToButt"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["SPANKING"],"Feeling":["NEUTRAL"],"Service":["UTILITY","HIDDEN"],"Attribute":["FROMBEHIND","GAGGED"],"Contact":[["NULLTOSELF","SPANKTOBUTT"]],"Numeric":["HELD3","STIM3","LOVE3","DOM-3"],"ActorTypes":["2P"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Gray_Spanking01Gag_S2",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "2P",
+      "NoFurn",
+      "Spanking",
+      "FromBehind",
+      "Neutral",
+      "Gagged",
+      "Held3",
+      "Stim3",
+      "Love3",
+      "Dom-3",
+      "NullToSelf",
+      "SpankToButt"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "SPANKING"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN"
+    ],
+    "Attribute": [
+      "FROMBEHIND",
+      "GAGGED"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "SPANKTOBUTT"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM3",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "2P"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

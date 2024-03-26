@@ -1,1 +1,85 @@
-{"Id":"BP70 Armchair Cunnilingus 05","Type":"Single","Furniture":["Armchair"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","Armchair","Cunnilingus","FromFront","Neutral","Climax","Held1","Love5","Stim3","Dom3","NullToSelf","MouthToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["ARMCHAIR"],"Narrative":["CUNNILINGUS"],"Feeling":["NEUTRAL"],"Service":["CLIMAX"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","MOUTHTOVAGINA"]],"Numeric":["HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Armchair Cunnilingus 05",
+  "Type": "Single",
+  "Furniture": [
+    "Armchair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "Armchair",
+      "Cunnilingus",
+      "FromFront",
+      "Neutral",
+      "Climax",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "MouthToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [
+      "CUNNILINGUS"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "CLIMAX"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

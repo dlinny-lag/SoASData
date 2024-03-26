@@ -1,1 +1,100 @@
-{"Id":"BP70 Female Masturbation (Toilet)","Type":"Single","Furniture":["Toilet"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F","Toilet","Masturbation","Neutral","MidStage","Held-1","Stim7","Love0","Dom0","HandToVagina"],["BP70","F","Toilet","Masturbation","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom3","NullToSelf","HandToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["TOILET"],"Narrative":["MASTURBATION"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["HANDTOVAGINA"],["NULLTOSELF","HANDTOVAGINA"]],"Numeric":["HELD-1","STIM7","LOVE0","DOM0","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Female Masturbation (Toilet)",
+  "Type": "Single",
+  "Furniture": [
+    "Toilet"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F",
+      "Toilet",
+      "Masturbation",
+      "Neutral",
+      "MidStage",
+      "Held-1",
+      "Stim7",
+      "Love0",
+      "Dom0",
+      "HandToVagina"
+    ],
+    [
+      "BP70",
+      "F",
+      "Toilet",
+      "Masturbation",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "HandToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "TOILET"
+    ],
+    "Narrative": [
+      "MASTURBATION"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "HANDTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "HANDTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD-1",
+      "STIM7",
+      "LOVE0",
+      "DOM0",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

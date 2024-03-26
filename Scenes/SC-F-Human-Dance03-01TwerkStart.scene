@@ -1,1 +1,74 @@
-{"Id":"SC-F-Human-Dance03-01TwerkStart","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F","NoFurn","Dancing","SexyDance","Neutral","Start","Held0","Love0","Stim1","Dom0","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["DANCING","SEXYDANCE"],"Feeling":["NEUTRAL"],"Service":["START"],"Attribute":[],"Contact":[["NULLTOSELF"]],"Numeric":["HELD0","LOVE0","STIM1","DOM0"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-F-Human-Dance03-01TwerkStart",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F",
+      "NoFurn",
+      "Dancing",
+      "SexyDance",
+      "Neutral",
+      "Start",
+      "Held0",
+      "Love0",
+      "Stim1",
+      "Dom0",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DANCING",
+      "SEXYDANCE"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "START"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD0",
+      "LOVE0",
+      "STIM1",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

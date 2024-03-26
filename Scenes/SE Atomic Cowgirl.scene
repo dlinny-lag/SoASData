@@ -1,1 +1,63 @@
-{"Id":"SE Atomic Cowgirl","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","NoFurn","PenisToVagina","SF:F=F - Atomic Cowgirl:M=M - Atomic Cowgirl"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOVAGINA"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC COWGIRL:M=M - ATOMIC COWGIRL"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Cowgirl",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "NoFurn",
+      "PenisToVagina",
+      "SF:F=F - Atomic Cowgirl:M=M - Atomic Cowgirl"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC COWGIRL:M=M - ATOMIC COWGIRL"
+    ],
+    "Unknown": []
+  }
+}

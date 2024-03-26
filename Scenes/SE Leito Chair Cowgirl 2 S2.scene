@@ -1,1 +1,89 @@
-{"Id":"SE Leito Chair Cowgirl 2 S2","Type":"Single","Furniture":["ArmChair","ArmlessChair","Bench","ChairModernDomestic","Couches"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","ArmChair","Cowgirl","FromFront","Neutral","Held1","Love3","Stim1","Dom-3","NullToSelf","PenisToVagina","SF:F=F - Leito Chair Cowgirl 2 S2:M=M - Leito Chair Cowgirl 2 S2"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["ARMCHAIR"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","LOVE3","STIM1","DOM-3"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO CHAIR COWGIRL 2 S2:M=M - LEITO CHAIR COWGIRL 2 S2"],"Unknown":[]}}
+{
+  "Id": "SE Leito Chair Cowgirl 2 S2",
+  "Type": "Single",
+  "Furniture": [
+    "ArmChair",
+    "ArmlessChair",
+    "Bench",
+    "ChairModernDomestic",
+    "Couches"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "ArmChair",
+      "Cowgirl",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Love3",
+      "Stim1",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=F - Leito Chair Cowgirl 2 S2:M=M - Leito Chair Cowgirl 2 S2"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE3",
+      "STIM1",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO CHAIR COWGIRL 2 S2:M=M - LEITO CHAIR COWGIRL 2 S2"
+    ],
+    "Unknown": []
+  }
+}

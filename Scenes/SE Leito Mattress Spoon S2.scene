@@ -1,1 +1,82 @@
-{"Id":"SE Leito Mattress Spoon S2","Type":"Single","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","Mattress","FromBehind","Neutral","Held1","Stim1","Love7","Dom-1","NullToSelf","PenisToVagina","SF:F=F - Leito Spoon 1 S1:M=M - Leito Spoon 1 S1"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["MATTRESS"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM1","LOVE7","DOM-1"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO SPOON 1 S1:M=M - LEITO SPOON 1 S1"],"Unknown":[]}}
+{
+  "Id": "SE Leito Mattress Spoon S2",
+  "Type": "Single",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "Mattress",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim1",
+      "Love7",
+      "Dom-1",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=F - Leito Spoon 1 S1:M=M - Leito Spoon 1 S1"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE7",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO SPOON 1 S1:M=M - LEITO SPOON 1 S1"
+    ],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,83 @@
-{"Id":"SC-FM-Human-ChairHigh01-01Tease","Type":"Single","Furniture":["ChairHigh"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","ChairHigh","Kneeling","FromBehind","Neutral","Tease","Held3","Love5","Stim7","Dom-5","NullToSelf","HandtoAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["CHAIRHIGH"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["KNEELING","FROMBEHIND","TEASE"],"Contact":[["NULLTOSELF","HANDTOANUS"]],"Numeric":["HELD3","LOVE5","STIM7","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-ChairHigh01-01Tease",
+  "Type": "Single",
+  "Furniture": [
+    "ChairHigh"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "ChairHigh",
+      "Kneeling",
+      "FromBehind",
+      "Neutral",
+      "Tease",
+      "Held3",
+      "Love5",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf",
+      "HandtoAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "CHAIRHIGH"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "KNEELING",
+      "FROMBEHIND",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE5",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

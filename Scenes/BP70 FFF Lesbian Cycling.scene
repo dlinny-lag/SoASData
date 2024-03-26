@@ -1,1 +1,83 @@
-{"Id":"BP70 FFF Lesbian Cycling","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_F_F","NoFurn","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom3","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT","TEASE"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 FFF Lesbian Cycling",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_F_F",
+      "NoFurn",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

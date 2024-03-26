@@ -1,1 +1,108 @@
-{"Id":"BP70 Cunnilingus","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Cunnilingus","FromFront","Loving","MidStage","Held0","Stim7","Love5","Dom0","NullToSelf","MouthToVagina"],["BP70","F_M","NoFurn","Cunnilingus","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom5","NullToSelf","MouthToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["CUNNILINGUS"],"Feeling":["LOVING","NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","MOUTHTOVAGINA"],["NULLTOSELF","MOUTHTOVAGINA"]],"Numeric":["HELD0","STIM7","LOVE5","DOM0","HELD1","LOVE5","STIM3","DOM5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Cunnilingus",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Cunnilingus",
+      "FromFront",
+      "Loving",
+      "MidStage",
+      "Held0",
+      "Stim7",
+      "Love5",
+      "Dom0",
+      "NullToSelf",
+      "MouthToVagina"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Cunnilingus",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom5",
+      "NullToSelf",
+      "MouthToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CUNNILINGUS"
+    ],
+    "Feeling": [
+      "LOVING",
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "MOUTHTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD0",
+      "STIM7",
+      "LOVE5",
+      "DOM0",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

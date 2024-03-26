@@ -1,1 +1,89 @@
-{"Id":"Mutant Stage 04","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Supermutant","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","F_SMutantM","NoFurn","Doggy","FromBehind","Neutral","Rough","MidStage","Held7","Stim5","Love3","Dom-5","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL","ROUGH"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD7","STIM5","LOVE3","DOM-5"],"ActorTypes":["F_SMUTANTM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Mutant Stage 04",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Supermutant",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "F_SMutantM",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "Rough",
+      "MidStage",
+      "Held7",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL",
+      "ROUGH"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD7",
+      "STIM5",
+      "LOVE3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_SMUTANTM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

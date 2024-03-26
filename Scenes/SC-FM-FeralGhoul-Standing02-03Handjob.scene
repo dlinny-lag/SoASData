@@ -1,1 +1,87 @@
-{"Id":"SC-FM-FeralGhoul-Standing02-03Handjob","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_FGhoulM","NoFurn","Kneeling","Handjob","FromFront","Rough","Aggressive","MidStage","Held3","Love0","Stim0","Dom-3","NullToSelf","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["HANDJOB"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["KNEELING","FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND"]],"Numeric":["HELD3","LOVE0","STIM0","DOM-3"],"ActorTypes":["F_FGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-FeralGhoul-Standing02-03Handjob",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_FGhoulM",
+      "NoFurn",
+      "Kneeling",
+      "Handjob",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held3",
+      "Love0",
+      "Stim0",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "KNEELING",
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE0",
+      "STIM0",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

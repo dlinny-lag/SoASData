@@ -1,1 +1,101 @@
-{"Id":"Leito FF Spoon","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","NoFurn","FromBehind","Neutral","MidStage","Held1","Stim1","Love7","Dom-1","NullToSelf","StrapOnToAnus"],["Leito","F_F","NoFurn","FromBehind","Neutral","Held1","Stim1","Love7","Dom-1","NullToSelf","StrapOnToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","STRAPONTOANUS"],["NULLTOSELF","STRAPONTOVAGINA"]],"Numeric":["HELD1","STIM1","LOVE7","DOM-1","HELD1","STIM1","LOVE7","DOM-1"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Spoon",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim1",
+      "Love7",
+      "Dom-1",
+      "NullToSelf",
+      "StrapOnToAnus"
+    ],
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim1",
+      "Love7",
+      "Dom-1",
+      "NullToSelf",
+      "StrapOnToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOANUS"
+      ],
+      [
+        "NULLTOSELF",
+        "STRAPONTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE7",
+      "DOM-1",
+      "HELD1",
+      "STIM1",
+      "LOVE7",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

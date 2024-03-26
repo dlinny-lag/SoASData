@@ -1,1 +1,85 @@
-{"Id":"SC-FM-Dog-RoundTableSmall01-05Doggy","Type":"Single","Furniture":["RoundTable"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_DogM","RoundTable","Doggy","FromBehind","Neutral","MidStage","Held3","Love5","Stim7","Dom-7","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["ROUNDTABLE"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","LOVE5","STIM7","DOM-7"],"ActorTypes":["F_DOGM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Dog-RoundTableSmall01-05Doggy",
+  "Type": "Single",
+  "Furniture": [
+    "RoundTable"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_DogM",
+      "RoundTable",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love5",
+      "Stim7",
+      "Dom-7",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "ROUNDTABLE"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE5",
+      "STIM7",
+      "DOM-7"
+    ],
+    "ActorTypes": [
+      "F_DOGM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

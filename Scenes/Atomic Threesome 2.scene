@@ -1,1 +1,90 @@
-{"Id":"Atomic Threesome 2","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M_M","NoFurn","Handjob","DoubleTeam","Neutral","MidStage","Held3","Love1","Stim1","Dom-3","NullToSelf","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":["HANDJOB","DOUBLETEAM"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","LOVE1","STIM1","DOM-3"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Threesome 2",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M_M",
+      "NoFurn",
+      "Handjob",
+      "DoubleTeam",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love1",
+      "Stim1",
+      "Dom-3",
+      "NullToSelf",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "HANDJOB",
+      "DOUBLETEAM"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE1",
+      "STIM1",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

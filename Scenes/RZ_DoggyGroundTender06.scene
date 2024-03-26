@@ -1,1 +1,55 @@
-{"Id":"RZ_DoggyGroundTender06","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["RohZima","Doggy","Tender"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["ROHZIMA"],"Furniture":[],"Narrative":["DOGGY"],"Feeling":[],"Service":[],"Attribute":["TENDER"],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "RZ_DoggyGroundTender06",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "RohZima",
+      "Doggy",
+      "Tender"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "ROHZIMA"
+    ],
+    "Furniture": [],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [
+      "TENDER"
+    ],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

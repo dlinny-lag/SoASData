@@ -1,1 +1,82 @@
-{"Id":"SC-FMM-Human-KitchenPostWar01-03Doggy","Type":"Single","Furniture":["Kitchen_PostWar"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M","Neutral","Tease","Held3","Love3","Stim3","Dom-3","NullToSelf","HandToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":[],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD3","LOVE3","STIM3","DOM-3"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Human-KitchenPostWar01-03Doggy",
+  "Type": "Single",
+  "Furniture": [
+    "Kitchen_PostWar"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M",
+      "Neutral",
+      "Tease",
+      "Held3",
+      "Love3",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE3",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,94 @@
-{"Id":"SC-FM-Gorilla-Standing01-04Doggy","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Gorilla","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","Aggressive","PenisToEither"],["SavageCabbage","F_M","NoFurn","Standing","Doggy","FromBehind","Neutral","MidStage","Held3","Stim7","Love5","Dom-5","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["AGGRESSIVE","NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["STANDING","FROMBEHIND"],"Contact":[["PENISTOEITHER"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Gorilla-Standing01-04Doggy",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Gorilla",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "Aggressive",
+      "PenisToEither"
+    ],
+    [
+      "SavageCabbage",
+      "F_M",
+      "NoFurn",
+      "Standing",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "AGGRESSIVE",
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "STANDING",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "PENISTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

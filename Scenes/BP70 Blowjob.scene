@@ -1,1 +1,107 @@
-{"Id":"BP70 Blowjob","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Blowjob","FromFront","Neutral","MidStage","Held1","Stim1","Love5","Dom-3","NullToSelf","PenisToMouth"],["BP70","F_M","NoFurn","Blowjob","FromFront","Neutral","Tease","Held3","Love5","Stim3","Dom5","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["BLOWJOB"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","PENISTOMOUTH"],["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD1","STIM1","LOVE5","DOM-3","HELD3","LOVE5","STIM3","DOM5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Blowjob",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Blowjob",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim1",
+      "Love5",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToMouth"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Blowjob",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held3",
+      "Love5",
+      "Stim3",
+      "Dom5",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE5",
+      "DOM-3",
+      "HELD3",
+      "LOVE5",
+      "STIM3",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

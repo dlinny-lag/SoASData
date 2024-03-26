@@ -1,1 +1,79 @@
-{"Id":"SC-FM-SuperMutant-SMBed01-01Tease","Type":"Single","Furniture":["SMBed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Supermutant","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_SMutantM","TiresBed","Aggressive","tease","Held3","Love1","Stim3","Dom-3","NullToSelf","HandToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["TIRESBED"],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD3","LOVE1","STIM3","DOM-3"],"ActorTypes":["F_SMUTANTM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-SuperMutant-SMBed01-01Tease",
+  "Type": "Single",
+  "Furniture": [
+    "SMBed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Supermutant",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_SMutantM",
+      "TiresBed",
+      "Aggressive",
+      "tease",
+      "Held3",
+      "Love1",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "TIRESBED"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE1",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_SMUTANTM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

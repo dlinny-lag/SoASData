@@ -1,1 +1,65 @@
-{"Id":"SE Atomic Flying V 3","Type":"Single","Furniture":["Player House Kitchen Table"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","Player House Kitchen Table","PenisToVagina","SF:F=F - Atomic Flying V 3:M=M - Atomic Flying V 3"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["PLAYER HOUSE KITCHEN TABLE"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOVAGINA"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC FLYING V 3:M=M - ATOMIC FLYING V 3"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Flying V 3",
+  "Type": "Single",
+  "Furniture": [
+    "Player House Kitchen Table"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "Player House Kitchen Table",
+      "PenisToVagina",
+      "SF:F=F - Atomic Flying V 3:M=M - Atomic Flying V 3"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "PLAYER HOUSE KITCHEN TABLE"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC FLYING V 3:M=M - ATOMIC FLYING V 3"
+    ],
+    "Unknown": []
+  }
+}

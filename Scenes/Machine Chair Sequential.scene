@@ -1,1 +1,93 @@
-{"Id":"Machine Chair Sequential","Type":"Sequence","Furniture":["MachineChairFurniture"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Sequential"],["F","NoFurn","Bound","Held9","Love-5","Stim0","Dom-9","GrayUser","BadEndMachine"],["GrayUser","F","MachineChair","Bound","Electrocuted","Held9","Love-9","Stim-3","Dom-1","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN","BADENDMACHINE","MACHINECHAIR"],"Narrative":["ELECTROCUTED"],"Feeling":[],"Service":["SEQUENTIAL"],"Attribute":["BOUND"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD9","LOVE-5","STIM0","DOM-9","HELD9","LOVE-9","STIM-3","DOM-1"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Machine Chair Sequential",
+  "Type": "Sequence",
+  "Furniture": [
+    "MachineChairFurniture"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Sequential"
+    ],
+    [
+      "F",
+      "NoFurn",
+      "Bound",
+      "Held9",
+      "Love-5",
+      "Stim0",
+      "Dom-9",
+      "GrayUser",
+      "BadEndMachine"
+    ],
+    [
+      "GrayUser",
+      "F",
+      "MachineChair",
+      "Bound",
+      "Electrocuted",
+      "Held9",
+      "Love-9",
+      "Stim-3",
+      "Dom-1",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN",
+      "BADENDMACHINE",
+      "MACHINECHAIR"
+    ],
+    "Narrative": [
+      "ELECTROCUTED"
+    ],
+    "Feeling": [],
+    "Service": [
+      "SEQUENTIAL"
+    ],
+    "Attribute": [
+      "BOUND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE-5",
+      "STIM0",
+      "DOM-9",
+      "HELD9",
+      "LOVE-9",
+      "STIM-3",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

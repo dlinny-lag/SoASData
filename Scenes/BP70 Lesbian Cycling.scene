@@ -1,1 +1,103 @@
-{"Id":"BP70 Lesbian Cycling","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_F","NoFurn","Scissor","Neutral","MidStage","Held1","Stim9","Love5","Dom0","NullToSelf","VaginaToVagina"],["BP70","F_F","NoFurn","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom3","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["SCISSOR"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","VAGINATOVAGINA"],["NULLTOSELF"]],"Numeric":["HELD1","STIM9","LOVE5","DOM0","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Lesbian Cycling",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_F",
+      "NoFurn",
+      "Scissor",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom0",
+      "NullToSelf",
+      "VaginaToVagina"
+    ],
+    [
+      "BP70",
+      "F_F",
+      "NoFurn",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "SCISSOR"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "VAGINATOVAGINA"
+      ],
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM0",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

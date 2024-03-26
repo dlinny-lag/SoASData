@@ -1,1 +1,81 @@
-{"Id":"SC-FM-Human-PoolTable02-01RoughTease","Type":"Single","Furniture":["PoolTable"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","PoolTable","Rough","Aggressive","Tease","Held3","Love-1","Stim3","Dom-5","NullToSelf","HandToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["POOLTABLE"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD3","LOVE-1","STIM3","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-PoolTable02-01RoughTease",
+  "Type": "Single",
+  "Furniture": [
+    "PoolTable"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "PoolTable",
+      "Rough",
+      "Aggressive",
+      "Tease",
+      "Held3",
+      "Love-1",
+      "Stim3",
+      "Dom-5",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "POOLTABLE"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE-1",
+      "STIM3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

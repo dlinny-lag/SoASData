@@ -1,1 +1,85 @@
-{"Id":"SC-FM-Dog-Floor02-06Missionary","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_DogM","NoFurn","Missionary","FromFront","Rough","Aggressive","MidStage","Held1","Love5","Stim7","Dom-3","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["MISSIONARY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","LOVE5","STIM7","DOM-3"],"ActorTypes":["F_DOGM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Dog-Floor02-06Missionary",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_DogM",
+      "NoFurn",
+      "Missionary",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim7",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM7",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_DOGM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

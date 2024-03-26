@@ -1,1 +1,70 @@
-{"Id":"(CHAK) Hug 01","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["AVilas","NoFurn","Loving","Hugging","Foreplay","NonSex","NullToSelf","SEUHugging"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["AVILAS"],"Furniture":["NOFURN"],"Narrative":["HUGGING","FOREPLAY"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF"]],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["NONSEX","SEUHUGGING"]}}
+{
+  "Id": "(CHAK) Hug 01",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "AVilas",
+      "NoFurn",
+      "Loving",
+      "Hugging",
+      "Foreplay",
+      "NonSex",
+      "NullToSelf",
+      "SEUHugging"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "AVILAS"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "HUGGING",
+      "FOREPLAY"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "NONSEX",
+      "SEUHUGGING"
+    ]
+  }
+}

@@ -1,1 +1,83 @@
-{"Id":"BP70 Pit Doggy Orgasm (Loop)","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Blowjob","FromFront","Neutral","Climax","Held1","Love5","Stim3","Dom3","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["BLOWJOB"],"Feeling":["NEUTRAL"],"Service":["CLIMAX"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Pit Doggy Orgasm (Loop)",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Blowjob",
+      "FromFront",
+      "Neutral",
+      "Climax",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "CLIMAX"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

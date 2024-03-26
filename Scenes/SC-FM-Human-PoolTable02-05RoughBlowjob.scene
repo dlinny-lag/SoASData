@@ -1,1 +1,87 @@
-{"Id":"SC-FM-Human-PoolTable02-05RoughBlowjob","Type":"Single","Furniture":["PoolTable"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","PoolTable","Blowjob","FromBehind","Rough","Aggressive","MidStage","Held5","Love-5","Stim7","Dom-9","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["POOLTABLE"],"Narrative":["BLOWJOB"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD5","LOVE-5","STIM7","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-PoolTable02-05RoughBlowjob",
+  "Type": "Single",
+  "Furniture": [
+    "PoolTable"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "PoolTable",
+      "Blowjob",
+      "FromBehind",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held5",
+      "Love-5",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "POOLTABLE"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "LOVE-5",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

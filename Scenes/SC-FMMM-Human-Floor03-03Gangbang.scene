@@ -1,1 +1,93 @@
-{"Id":"SC-FMMM-Human-Floor03-03Gangbang","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M_M","NoFurn","Aggressive","MidStage","Held9","Love0","Stim9","Dom-9","NullToSelf","PenisToVagina","PenisToAnus","PenisToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOANUS","PENISTONIPPLES"]],"Numeric":["HELD9","LOVE0","STIM9","DOM-9"],"ActorTypes":["F_M_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMMM-Human-Floor03-03Gangbang",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M_M",
+      "NoFurn",
+      "Aggressive",
+      "MidStage",
+      "Held9",
+      "Love0",
+      "Stim9",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToAnus",
+      "PenisToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOANUS",
+        "PENISTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE0",
+      "STIM9",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

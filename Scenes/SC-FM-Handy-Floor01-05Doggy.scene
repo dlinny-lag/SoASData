@@ -1,1 +1,92 @@
-{"Id":"SC-FM-Handy-Floor01-05Doggy","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"HandyCreateABot","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","Aggressive","StickToEither"],["SavageCabbage","F_HandyM","NoFurn","Doggy","FromBehind","Neutral","MidStage","Held5","Love5","Stim7","Dom-9","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["AGGRESSIVE","NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["STICKTOEITHER"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD5","LOVE5","STIM7","DOM-9"],"ActorTypes":["F_HANDYM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Handy-Floor01-05Doggy",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "HandyCreateABot",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "Aggressive",
+      "StickToEither"
+    ],
+    [
+      "SavageCabbage",
+      "F_HandyM",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held5",
+      "Love5",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "AGGRESSIVE",
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "STICKTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "LOVE5",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_HANDYM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

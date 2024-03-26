@@ -1,1 +1,85 @@
-{"Id":"Snap - Fingering (Kneeling)","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[{"From":{"ReversePath":"Arm","Stimulation":70,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"Hand","ParticipantIndex":0},"To":{"ReversePath":"","Stimulation":70,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"Vagina","ParticipantIndex":0}}],"EnvironmentContacts":[],"RawTags":[["HandToVagina:0-0","Loving","Stim7"],["Masturbation"]],"Authors":[],"Narrative":["MASTURBATION"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Other":[],"Custom":{},"Tags":[],"Imported":{"Author":[],"Furniture":[],"Narrative":["MASTURBATION"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Contact":[["HANDTOVAGINA:0-0"]],"Numeric":["STIM7"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Snap - Fingering (Kneeling)",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [
+    {
+      "From": {
+        "ReversePath": "Arm",
+        "Stimulation": 70,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "Hand",
+        "ParticipantIndex": 0
+      },
+      "To": {
+        "ReversePath": "",
+        "Stimulation": 70,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "Vagina",
+        "ParticipantIndex": 0
+      }
+    }
+  ],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "HandToVagina:0-0",
+      "Loving",
+      "Stim7"
+    ],
+    [
+      "Masturbation"
+    ]
+  ],
+  "Authors": [],
+  "Narrative": [
+    "MASTURBATION"
+  ],
+  "Feeling": [
+    "LOVING"
+  ],
+  "Service": [],
+  "Attribute": [],
+  "Other": [],
+  "Custom": {},
+  "Tags": [],
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "MASTURBATION"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "HANDTOVAGINA:0-0"
+      ]
+    ],
+    "Numeric": [
+      "STIM7"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

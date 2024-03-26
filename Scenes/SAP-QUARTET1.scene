@@ -1,1 +1,64 @@
-{"Id":"SAP-QUARTET1","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SAP","Pose"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":[],"Furniture":[],"Narrative":["POSE"],"Feeling":[],"Service":[],"Attribute":[],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["SAP"]}}
+{
+  "Id": "SAP-QUARTET1",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SAP",
+      "Pose"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "POSE"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "SAP"
+    ]
+  }
+}

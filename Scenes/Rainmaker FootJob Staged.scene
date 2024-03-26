@@ -1,1 +1,68 @@
-{"Id":"Rainmaker FootJob Staged","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rainmaker","F_M","NoFurn","Footjob","FJ","Neutral","PenisToFoot"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RAINMAKER"],"Furniture":["NOFURN"],"Narrative":["FOOTJOB","FJ"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":[],"Contact":[["PENISTOFOOT"]],"Numeric":[],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Rainmaker FootJob Staged",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rainmaker",
+      "F_M",
+      "NoFurn",
+      "Footjob",
+      "FJ",
+      "Neutral",
+      "PenisToFoot"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RAINMAKER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "FOOTJOB",
+      "FJ"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOFOOT"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

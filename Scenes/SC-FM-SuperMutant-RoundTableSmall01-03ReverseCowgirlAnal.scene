@@ -1,1 +1,87 @@
-{"Id":"SC-FM-SuperMutant-RoundTableSmall01-03ReverseCowgirlAnal","Type":"Single","Furniture":["RoundTable"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Supermutant","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_SMutantM","FEVChamber","Cowgirl","Anal","FromBehind","Neutral","MidStage","Held5","Love5","Stim7","Dom-9","NullToSelf","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["FEVCHAMBER"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["ANAL","FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOANUS"]],"Numeric":["HELD5","LOVE5","STIM7","DOM-9"],"ActorTypes":["F_SMUTANTM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-SuperMutant-RoundTableSmall01-03ReverseCowgirlAnal",
+  "Type": "Single",
+  "Furniture": [
+    "RoundTable"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Supermutant",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_SMutantM",
+      "FEVChamber",
+      "Cowgirl",
+      "Anal",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held5",
+      "Love5",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "FEVCHAMBER"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "ANAL",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "LOVE5",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_SMUTANTM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

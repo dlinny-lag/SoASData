@@ -1,1 +1,82 @@
-{"Id":"Atomic Cryo Pod","Type":"Single","Furniture":["Cryo Pod"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","CryoPod","FromBehind","Neutral","MidStage","Held1","Love5","Stim9","Dom1","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["CRYOPOD"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD1","LOVE5","STIM9","DOM1"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Cryo Pod",
+  "Type": "Single",
+  "Furniture": [
+    "Cryo Pod"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "CryoPod",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim9",
+      "Dom1",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "CRYOPOD"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM9",
+      "DOM1"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

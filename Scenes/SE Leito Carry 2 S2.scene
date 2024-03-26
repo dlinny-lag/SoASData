@@ -1,1 +1,83 @@
-{"Id":"SE Leito Carry 2 S2","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","NoFurn","Carry","FromFront","Neutral","Held1","Stim7","Love5","Dom-1","NullToSelf","PenisToVagina","SF:F=F - Leito Carry 2 S1:M=M - Leito Carry 2 S2"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":["CARRY"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM7","LOVE5","DOM-1"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO CARRY 2 S1:M=M - LEITO CARRY 2 S2"],"Unknown":[]}}
+{
+  "Id": "SE Leito Carry 2 S2",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "NoFurn",
+      "Carry",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Stim7",
+      "Love5",
+      "Dom-1",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=F - Leito Carry 2 S1:M=M - Leito Carry 2 S2"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM7",
+      "LOVE5",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO CARRY 2 S1:M=M - LEITO CARRY 2 S2"
+    ],
+    "Unknown": []
+  }
+}

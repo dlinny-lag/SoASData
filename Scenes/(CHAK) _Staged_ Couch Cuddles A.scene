@@ -1,1 +1,75 @@
-{"Id":"(CHAK) *Staged* Couch Cuddles A","Type":"Sequence","Furniture":["AV-Couch"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["AVilas","Couch","MidStage","Loving","Cuddle","Foreplay","NonSex","NullToSelf","SEUKissing"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["AVILAS"],"Furniture":["COUCH"],"Narrative":["CUDDLE","FOREPLAY"],"Feeling":["LOVING"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF"]],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["NONSEX","SEUKISSING"]}}
+{
+  "Id": "(CHAK) *Staged* Couch Cuddles A",
+  "Type": "Sequence",
+  "Furniture": [
+    "AV-Couch"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "AVilas",
+      "Couch",
+      "MidStage",
+      "Loving",
+      "Cuddle",
+      "Foreplay",
+      "NonSex",
+      "NullToSelf",
+      "SEUKissing"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "AVILAS"
+    ],
+    "Furniture": [
+      "COUCH"
+    ],
+    "Narrative": [
+      "CUDDLE",
+      "FOREPLAY"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "NONSEX",
+      "SEUKISSING"
+    ]
+  }
+}

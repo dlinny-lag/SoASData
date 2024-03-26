@@ -1,1 +1,73 @@
-{"Id":"SE SC FF Shower 1-5 Doggy","Type":"Single","Furniture":["Shower_PlayerHouse"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_F","Shower","FaceDown","FromBehind","Neutral","MidStage","StraponToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["SHOWER"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FACEDOWN","FROMBEHIND"],"Contact":[["STRAPONTOVAGINA"]],"Numeric":[],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SE SC FF Shower 1-5 Doggy",
+  "Type": "Single",
+  "Furniture": [
+    "Shower_PlayerHouse"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_F",
+      "Shower",
+      "FaceDown",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "StraponToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "SHOWER"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FACEDOWN",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "STRAPONTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

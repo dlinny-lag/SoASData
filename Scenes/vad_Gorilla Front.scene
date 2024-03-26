@@ -1,1 +1,79 @@
-{"Id":"vad_Gorilla Front","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Gorilla","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Vader","F_GorillaM","NoFurn","Rough","Aggressive","MidStage","Held2","Stim5","Love3","Dom-5","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["VADER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD2","STIM5","LOVE3","DOM-5"],"ActorTypes":["F_GORILLAM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "vad_Gorilla Front",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Gorilla",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Vader",
+      "F_GorillaM",
+      "NoFurn",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held2",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "VADER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD2",
+      "STIM5",
+      "LOVE3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_GORILLAM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,73 @@
-{"Id":"Snap - FTTT Doggy","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Tentacle","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Tentacle","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Tentacle","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Stim5","Impaled","TentacleToNipple:1-0","TentacleToNipple:2-0","TentacleToVagina:3-0"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":[],"Furniture":[],"Narrative":["IMPALED"],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["TENTACLETONIPPLE:1-0","TENTACLETONIPPLE:2-0","TENTACLETOVAGINA:3-0"]],"Numeric":["STIM5"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Snap - FTTT Doggy",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Tentacle",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Tentacle",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Tentacle",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Stim5",
+      "Impaled",
+      "TentacleToNipple:1-0",
+      "TentacleToNipple:2-0",
+      "TentacleToVagina:3-0"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "IMPALED"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "TENTACLETONIPPLE:1-0",
+        "TENTACLETONIPPLE:2-0",
+        "TENTACLETOVAGINA:3-0"
+      ]
+    ],
+    "Numeric": [
+      "STIM5"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

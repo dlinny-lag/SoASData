@@ -1,1 +1,133 @@
-{"Id":"Hanging (Free) Sequential","Type":"Sequence","Furniture":["GallowsFurniture"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":true}],"ActorsContacts":[],"EnvironmentContacts":[{"Details":{"ReversePath":null,"Stimulation":0,"Hold":100,"Pain":10,"Tickle":0,"Comfort":0,"PainType":"Crush","Area":"Hand","ParticipantIndex":0},"Direction":"FromEnvironment"},{"Details":{"ReversePath":null,"Stimulation":50,"Hold":100,"Pain":100,"Tickle":0,"Comfort":0,"PainType":"Crush","Area":"Neck","ParticipantIndex":0},"Direction":"FromEnvironment"}],"RawTags":[["Sequential","LegsFree"],["F","NoFurn","Bound","Held9","Love-5","Stim0","Dom-9","GrayUser","BadEndHanging"],["GrayUser","F","Gallows","Bound","Hung","Held5","Love-9","Stim0","Dom-1","NullToSelf"]],"Authors":["GRAYUSER"],"Narrative":["HUNG"],"Feeling":[],"Service":["SEQUENTIAL"],"Attribute":["LEGSFREE","BOUND"],"Other":[],"Custom":{},"Tags":[],"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN","BADENDHANGING","GALLOWS"],"Narrative":["HUNG"],"Feeling":[],"Service":["SEQUENTIAL"],"Attribute":["LEGSFREE","BOUND"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD9","LOVE-5","STIM0","DOM-9","HELD5","LOVE-9","STIM0","DOM-1"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Hanging (Free) Sequential",
+  "Type": "Sequence",
+  "Furniture": [
+    "GallowsFurniture"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": true
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [
+    {
+      "Details": {
+        "ReversePath": null,
+        "Stimulation": 0,
+        "Hold": 100,
+        "Pain": 10,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "Crush",
+        "Area": "Hand",
+        "ParticipantIndex": 0
+      },
+      "Direction": "FromEnvironment"
+    },
+    {
+      "Details": {
+        "ReversePath": null,
+        "Stimulation": 50,
+        "Hold": 100,
+        "Pain": 100,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "Crush",
+        "Area": "Neck",
+        "ParticipantIndex": 0
+      },
+      "Direction": "FromEnvironment"
+    }
+  ],
+  "RawTags": [
+    [
+      "Sequential",
+      "LegsFree"
+    ],
+    [
+      "F",
+      "NoFurn",
+      "Bound",
+      "Held9",
+      "Love-5",
+      "Stim0",
+      "Dom-9",
+      "GrayUser",
+      "BadEndHanging"
+    ],
+    [
+      "GrayUser",
+      "F",
+      "Gallows",
+      "Bound",
+      "Hung",
+      "Held5",
+      "Love-9",
+      "Stim0",
+      "Dom-1",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": [
+    "GRAYUSER"
+  ],
+  "Narrative": [
+    "HUNG"
+  ],
+  "Feeling": [],
+  "Service": [
+    "SEQUENTIAL"
+  ],
+  "Attribute": [
+    "LEGSFREE",
+    "BOUND"
+  ],
+  "Other": [],
+  "Custom": {},
+  "Tags": [],
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN",
+      "BADENDHANGING",
+      "GALLOWS"
+    ],
+    "Narrative": [
+      "HUNG"
+    ],
+    "Feeling": [],
+    "Service": [
+      "SEQUENTIAL"
+    ],
+    "Attribute": [
+      "LEGSFREE",
+      "BOUND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE-5",
+      "STIM0",
+      "DOM-9",
+      "HELD5",
+      "LOVE-9",
+      "STIM0",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

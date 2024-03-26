@@ -1,1 +1,109 @@
-{"Id":"BP70 Mistress 4","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Footjob","FromFront","Loving","FemDom","Held1","Stim3","Love5","Dom5","NullToSelf","PenisToVagina"],["BP70","F_M","NoFurn","Cowgirl","FromFront","Neutral","MidStage","Held1","Love5","Stim3","Dom9","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["FOOTJOB","COWGIRL"],"Feeling":["LOVING","NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","FEMDOM"],"Contact":[["NULLTOSELF","PENISTOVAGINA"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM3","LOVE5","DOM5","HELD1","LOVE5","STIM3","DOM9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Mistress 4",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Footjob",
+      "FromFront",
+      "Loving",
+      "FemDom",
+      "Held1",
+      "Stim3",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "PenisToVagina"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Cowgirl",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom9",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "FOOTJOB",
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "LOVING",
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "FEMDOM"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM3",
+      "LOVE5",
+      "DOM5",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

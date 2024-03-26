@@ -1,1 +1,55 @@
-{"Id":"Feral Ghoul (Held Missionary) Staged","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Aggressive","NoFurn"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":[],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Feral Ghoul (Held Missionary) Staged",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Aggressive",
+      "NoFurn"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

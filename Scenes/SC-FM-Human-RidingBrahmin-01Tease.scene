@@ -1,1 +1,116 @@
-{"Id":"SC-FM-Human-RidingBrahmin-01Tease","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Brahmin","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[{"From":{"ReversePath":"Arm","Stimulation":30,"Hold":0,"Pain":0,"Tickle":0,"Comfort":50,"PainType":"None","Area":"Hand","ParticipantIndex":1},"To":{"ReversePath":"Breast","Stimulation":30,"Hold":10,"Pain":0,"Tickle":0,"Comfort":50,"PainType":"None","Area":"Nipple","ParticipantIndex":0}}],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Brahmin","Loving","Tease","Held1","Love5","Stim3","Dom-5","NullToSelf","HandToNipples"]],"Authors":["SAVAGECABBAGE"],"Narrative":[],"Feeling":["LOVING"],"Service":[],"Attribute":["TEASE"],"Other":[],"Custom":{},"Tags":["BRAHMIN"],"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":[],"Narrative":[],"Feeling":["LOVING"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD1","LOVE5","STIM3","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":["BRAHMIN"]}}
+{
+  "Id": "SC-FM-Human-RidingBrahmin-01Tease",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Brahmin",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [
+    {
+      "From": {
+        "ReversePath": "Arm",
+        "Stimulation": 30,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 50,
+        "PainType": "None",
+        "Area": "Hand",
+        "ParticipantIndex": 1
+      },
+      "To": {
+        "ReversePath": "Breast",
+        "Stimulation": 30,
+        "Hold": 10,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 50,
+        "PainType": "None",
+        "Area": "Nipple",
+        "ParticipantIndex": 0
+      }
+    }
+  ],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Brahmin",
+      "Loving",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom-5",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": [
+    "SAVAGECABBAGE"
+  ],
+  "Narrative": [],
+  "Feeling": [
+    "LOVING"
+  ],
+  "Service": [],
+  "Attribute": [
+    "TEASE"
+  ],
+  "Other": [],
+  "Custom": {},
+  "Tags": [
+    "BRAHMIN"
+  ],
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": [
+      "BRAHMIN"
+    ]
+  }
+}

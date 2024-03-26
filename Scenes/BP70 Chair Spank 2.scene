@@ -1,1 +1,84 @@
-{"Id":"BP70 Chair Spank 2","Type":"Single","Furniture":["Chair"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","Chair","Spanking","FromBehind","Rough","Tease","Held1","Love1","Stim3","Dom-3","NullToSelf","HandToButt"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["CHAIR"],"Narrative":["SPANKING"],"Feeling":["ROUGH"],"Service":[],"Attribute":["FROMBEHIND","TEASE"],"Contact":[["NULLTOSELF","HANDTOBUTT"]],"Numeric":["HELD1","LOVE1","STIM3","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Chair Spank 2",
+  "Type": "Single",
+  "Furniture": [
+    "Chair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "Chair",
+      "Spanking",
+      "FromBehind",
+      "Rough",
+      "Tease",
+      "Held1",
+      "Love1",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "HandToButt"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "CHAIR"
+    ],
+    "Narrative": [
+      "SPANKING"
+    ],
+    "Feeling": [
+      "ROUGH"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTOBUTT"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE1",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

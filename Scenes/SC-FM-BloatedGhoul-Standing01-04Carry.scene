@@ -1,1 +1,85 @@
-{"Id":"SC-FM-BloatedGhoul-Standing01-04Carry","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_BltGhoulM","NoFurn","Carry","FromFront","Rough","Aggressive","MidStage","Held3","Love1","Stim7","Dom-9","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["CARRY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","LOVE1","STIM7","DOM-9"],"ActorTypes":["F_BLTGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-BloatedGhoul-Standing01-04Carry",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_BltGhoulM",
+      "NoFurn",
+      "Carry",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held3",
+      "Love1",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE1",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_BLTGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

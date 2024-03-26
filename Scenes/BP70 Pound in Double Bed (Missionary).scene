@@ -1,1 +1,112 @@
-{"Id":"BP70 Pound in Double Bed (Missionary)","Type":"Single","Furniture":["Double Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","DoubleBed","Missionary","FromFront","Pounding","Rough","Aggressive","MidStage","Held1","Stim5","Love3","Dom-5","NullToSelf","PenisToVagina"],["BP70","F_M","DoubleBed","Missionary","FromFront","Rough","MidStage","Held1","Love5","Stim3","Dom3","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["DOUBLEBED"],"Narrative":["MISSIONARY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","POUNDING"],"Contact":[["NULLTOSELF","PENISTOVAGINA"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM5","LOVE3","DOM-5","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Pound in Double Bed (Missionary)",
+  "Type": "Single",
+  "Furniture": [
+    "Double Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "DoubleBed",
+      "Missionary",
+      "FromFront",
+      "Pounding",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held1",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "DoubleBed",
+      "Missionary",
+      "FromFront",
+      "Rough",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "DOUBLEBED"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "POUNDING"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM5",
+      "LOVE3",
+      "DOM-5",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

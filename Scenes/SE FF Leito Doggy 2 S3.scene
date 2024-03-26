@@ -1,1 +1,66 @@
-{"Id":"SE FF Leito Doggy 2 S3","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","NoFurn","Neutral","StraponToVagina","SF:F=F - Leito Doggy 2 S3:F=FF - Leito Doggy 2-3"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":[],"Contact":[["STRAPONTOVAGINA"]],"Numeric":[],"ActorTypes":["F_F"],"Other":["SF:F=F - LEITO DOGGY 2 S3:F=FF - LEITO DOGGY 2-3"],"Unknown":[]}}
+{
+  "Id": "SE FF Leito Doggy 2 S3",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "Neutral",
+      "StraponToVagina",
+      "SF:F=F - Leito Doggy 2 S3:F=FF - Leito Doggy 2-3"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "STRAPONTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [
+      "SF:F=F - LEITO DOGGY 2 S3:F=FF - LEITO DOGGY 2-3"
+    ],
+    "Unknown": []
+  }
+}

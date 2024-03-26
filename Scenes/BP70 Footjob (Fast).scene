@@ -1,1 +1,108 @@
-{"Id":"BP70 Footjob (Fast)","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Footjob","FromFront","Loving","MidStage","Held1","Stim3","Love5","Dom5","NullToSelf","PenisToFeet"],["BP70","F_M","NoFurn","Footjob","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom5","NullToSelf","PenisToFoot"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["FOOTJOB"],"Feeling":["LOVING","NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","PENISTOFEET"],["NULLTOSELF","PENISTOFOOT"]],"Numeric":["HELD1","STIM3","LOVE5","DOM5","HELD1","LOVE5","STIM3","DOM5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Footjob (Fast)",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Footjob",
+      "FromFront",
+      "Loving",
+      "MidStage",
+      "Held1",
+      "Stim3",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "PenisToFeet"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Footjob",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom5",
+      "NullToSelf",
+      "PenisToFoot"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "FOOTJOB"
+    ],
+    "Feeling": [
+      "LOVING",
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOFEET"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOFOOT"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM3",
+      "LOVE5",
+      "DOM5",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

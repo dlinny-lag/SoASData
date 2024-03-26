@@ -1,1 +1,87 @@
-{"Id":"SC-FM-Human-Throne01-02Start","Type":"Single","Furniture":["Throne"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Throne","Kneeling","FromFront","Handjob","Aggressive","Start","Held1","Love1","Stim1","Dom-7","NullToSelf","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["THRONE"],"Narrative":["HANDJOB"],"Feeling":["AGGRESSIVE"],"Service":["START"],"Attribute":["KNEELING","FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND"]],"Numeric":["HELD1","LOVE1","STIM1","DOM-7"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-Throne01-02Start",
+  "Type": "Single",
+  "Furniture": [
+    "Throne"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Throne",
+      "Kneeling",
+      "FromFront",
+      "Handjob",
+      "Aggressive",
+      "Start",
+      "Held1",
+      "Love1",
+      "Stim1",
+      "Dom-7",
+      "NullToSelf",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "THRONE"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "START"
+    ],
+    "Attribute": [
+      "KNEELING",
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE1",
+      "STIM1",
+      "DOM-7"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

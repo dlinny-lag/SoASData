@@ -1,1 +1,83 @@
-{"Id":"SE Leito Reverse Cowgirl 1 S1","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","NoFurn","Cowgirl","FromBehind","Neutral","Held1","Stim9","Love5","Dom5","NullToSelf","PenisToVagina","SF:F=F - Leito Reverse Cowgirl 1 S1:M=M - Leito Reverse Cowgirl 1 S1"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM9","LOVE5","DOM5"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO REVERSE COWGIRL 1 S1:M=M - LEITO REVERSE COWGIRL 1 S1"],"Unknown":[]}}
+{
+  "Id": "SE Leito Reverse Cowgirl 1 S1",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "NoFurn",
+      "Cowgirl",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=F - Leito Reverse Cowgirl 1 S1:M=M - Leito Reverse Cowgirl 1 S1"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO REVERSE COWGIRL 1 S1:M=M - LEITO REVERSE COWGIRL 1 S1"
+    ],
+    "Unknown": []
+  }
+}

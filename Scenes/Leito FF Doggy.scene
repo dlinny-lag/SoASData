@@ -1,1 +1,106 @@
-{"Id":"Leito FF Doggy","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","NoFurn","Kneeling","FromBehind","Neutral","MidStage","Held1","Stim7","Love5","Dom-5","NullToSelf","StrapOnToEither"],["Leito","F_F","NoFurn","Doggy","FromBehind","Neutral","Held1","Stim7","Love5","Dom-5","NullToSelf","StrapOnToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["KNEELING","FROMBEHIND"],"Contact":[["NULLTOSELF","STRAPONTOEITHER"],["NULLTOSELF","STRAPONTOEITHER"]],"Numeric":["HELD1","STIM7","LOVE5","DOM-5","HELD1","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Doggy",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "Kneeling",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "StrapOnToEither"
+    ],
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "StrapOnToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "KNEELING",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "STRAPONTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM7",
+      "LOVE5",
+      "DOM-5",
+      "HELD1",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

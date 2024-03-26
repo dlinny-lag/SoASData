@@ -1,1 +1,74 @@
-{"Id":"Leito SuperMutant Chair ReverseCowgirl S3","Type":"Single","Furniture":["ArmChair","Bench","Couches"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Supermutant","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_SMutantM","ArmChair","Couch","Bench","Cowgirl","FromBehind","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["ARMCHAIR","COUCH","BENCH"],"Narrative":["COWGIRL"],"Feeling":[],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["PENISTOVAGINA"]],"Numeric":[],"ActorTypes":["F_SMUTANTM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito SuperMutant Chair ReverseCowgirl S3",
+  "Type": "Single",
+  "Furniture": [
+    "ArmChair",
+    "Bench",
+    "Couches"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Supermutant",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_SMutantM",
+      "ArmChair",
+      "Couch",
+      "Bench",
+      "Cowgirl",
+      "FromBehind",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "ARMCHAIR",
+      "COUCH",
+      "BENCH"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_SMUTANTM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

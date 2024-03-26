@@ -1,1 +1,110 @@
-{"Id":"BP70 Rimjob (M on M)","Type":"Single","Furniture":["Couch"],"Participants":[{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","M_M","Couch","RimJob","FromBehind","Neutral","MidStage","Held0","Stim9","Love5","Dom1","NullToSelf","TongueToAnus"],["BP70","M_M","Couch","Analingus","FromBehind","Neutral","Tease","Held1","Love5","Stim3","Dom3","NullToSelf","MouthToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["COUCH"],"Narrative":["RIMJOB","ANALINGUS"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND","TEASE"],"Contact":[["NULLTOSELF","TONGUETOANUS"],["NULLTOSELF","MOUTHTOANUS"]],"Numeric":["HELD0","STIM9","LOVE5","DOM1","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Rimjob (M on M)",
+  "Type": "Single",
+  "Furniture": [
+    "Couch"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "M_M",
+      "Couch",
+      "RimJob",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held0",
+      "Stim9",
+      "Love5",
+      "Dom1",
+      "NullToSelf",
+      "TongueToAnus"
+    ],
+    [
+      "BP70",
+      "M_M",
+      "Couch",
+      "Analingus",
+      "FromBehind",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "MouthToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "COUCH"
+    ],
+    "Narrative": [
+      "RIMJOB",
+      "ANALINGUS"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "TONGUETOANUS"
+      ],
+      [
+        "NULLTOSELF",
+        "MOUTHTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD0",
+      "STIM9",
+      "LOVE5",
+      "DOM1",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

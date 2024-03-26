@@ -1,1 +1,85 @@
-{"Id":"SC-FM-Human-Ottoman01-03Handjob","Type":"Single","Furniture":["Ottoman"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Ottoman","Handjob","FromFront","Neutral","MidStage","Held1","Love3","Stim3","Dom-3","NullToSelf","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["OTTOMAN"],"Narrative":["HANDJOB"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND"]],"Numeric":["HELD1","LOVE3","STIM3","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-Ottoman01-03Handjob",
+  "Type": "Single",
+  "Furniture": [
+    "Ottoman"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Ottoman",
+      "Handjob",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love3",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "OTTOMAN"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE3",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

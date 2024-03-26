@@ -1,1 +1,106 @@
-{"Id":"BP70 Prone Bone Anal 02","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","NoFurn","Doggy","FromBehind","Neutral","MidStage","Held3","Stim7","Love5","Dom-5","NullToSelf","PenisToAnus"],["BP70","F_M","NoFurn","Doggy","FromBehind","Neutral","MidStage","Held1","Love5","Stim3","Dom3","NullToSelf","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOANUS"],["NULLTOSELF","PENISTOANUS"]],"Numeric":["HELD3","STIM7","LOVE5","DOM-5","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Prone Bone Anal 02",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToAnus"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM7",
+      "LOVE5",
+      "DOM-5",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

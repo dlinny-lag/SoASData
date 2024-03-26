@@ -1,1 +1,82 @@
-{"Id":"SC-FM-Human-WeaponWorkbenchLarge01-02Start","Type":"Single","Furniture":["Weapon_Workbench_Large"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Weapon_Workbench_Large","FaceDown","FromBehind","Neutral","Start","Held3","Love5","Stim7","Dom-5","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["WEAPON_WORKBENCH_LARGE"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["START"],"Attribute":["FACEDOWN","FROMBEHIND"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD3","LOVE5","STIM7","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-WeaponWorkbenchLarge01-02Start",
+  "Type": "Single",
+  "Furniture": [
+    "Weapon_Workbench_Large"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Weapon_Workbench_Large",
+      "FaceDown",
+      "FromBehind",
+      "Neutral",
+      "Start",
+      "Held3",
+      "Love5",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "WEAPON_WORKBENCH_LARGE"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "START"
+    ],
+    "Attribute": [
+      "FACEDOWN",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE5",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,79 @@
-{"Id":"SC-FM-Human-HydroPillory01-01Tease","Type":"Single","Furniture":["HydroPillory"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","HydroPillory","Aggressive","Terase","Held9","Love0","Stim5","Dom-9","NullToSelf","HandToNipple"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["HYDROPILLORY"],"Narrative":["TERASE"],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF","HANDTONIPPLE"]],"Numeric":["HELD9","LOVE0","STIM5","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-HydroPillory01-01Tease",
+  "Type": "Single",
+  "Furniture": [
+    "HydroPillory"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "HydroPillory",
+      "Aggressive",
+      "Terase",
+      "Held9",
+      "Love0",
+      "Stim5",
+      "Dom-9",
+      "NullToSelf",
+      "HandToNipple"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "HYDROPILLORY"
+    ],
+    "Narrative": [
+      "TERASE"
+    ],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLE"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE0",
+      "STIM5",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

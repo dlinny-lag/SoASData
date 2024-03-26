@@ -1,1 +1,80 @@
-{"Id":"Kissing","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","NoFurn","Kissing","Loving","MidStage","Held1","Love9","Stim1","Dom0","NullToSelf","MouthToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":["KISSING"],"Feeling":["LOVING"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","MOUTHTOMOUTH"]],"Numeric":["HELD1","LOVE9","STIM1","DOM0"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Kissing",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "NoFurn",
+      "Kissing",
+      "Loving",
+      "MidStage",
+      "Held1",
+      "Love9",
+      "Stim1",
+      "Dom0",
+      "NullToSelf",
+      "MouthToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "KISSING"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE9",
+      "STIM1",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

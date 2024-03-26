@@ -1,1 +1,79 @@
-{"Id":"vad_Deathclaw fast","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Deathclaw","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Vader","F_DClawM","NoFurn","Rough","Aggressive","MidStage","Held3","Stim5","Love3","Dom-5","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["VADER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD3","STIM5","LOVE3","DOM-5"],"ActorTypes":["F_DCLAWM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "vad_Deathclaw fast",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Deathclaw",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Vader",
+      "F_DClawM",
+      "NoFurn",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held3",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "VADER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM5",
+      "LOVE3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_DCLAWM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

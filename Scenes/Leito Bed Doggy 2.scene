@@ -1,1 +1,87 @@
-{"Id":"Leito Bed Doggy 2","Type":"Sequence","Furniture":["Single_Bed","Double_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","SingleBed","DoubleBed","Bed","Doggy","FromBehind","Neutral","Held1","Stim7","Love5","Dom-5","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["SINGLEBED","DOUBLEBED","BED"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD1","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito Bed Doggy 2",
+  "Type": "Sequence",
+  "Furniture": [
+    "Single_Bed",
+    "Double_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "SingleBed",
+      "DoubleBed",
+      "Bed",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "SINGLEBED",
+      "DOUBLEBED",
+      "BED"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,57 @@
-{"Id":"SACA Bloodbug Anal 01","Type":"Tree","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Mosquito","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["PenisToAnus","Aggressive","SACA"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SACA"],"Furniture":[],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":[],"Contact":[["PENISTOANUS"]],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "SACA Bloodbug Anal 01",
+  "Type": "Tree",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Mosquito",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "PenisToAnus",
+      "Aggressive",
+      "SACA"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SACA"
+    ],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

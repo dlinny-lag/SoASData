@@ -1,1 +1,94 @@
-{"Id":"SC-FMM-Human-Pillory01-03DoubleTeam","Type":"Single","Furniture":["Pillory"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M","Pillory","FromBehind","FromFront","Rough","Aggressive","MidStage","Held9","Love0","Stim5","Dom-9","NullToSelf","PenisToVagina","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["PILLORY"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND","FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOMOUTH"]],"Numeric":["HELD9","LOVE0","STIM5","DOM-9"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Human-Pillory01-03DoubleTeam",
+  "Type": "Single",
+  "Furniture": [
+    "Pillory"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M",
+      "Pillory",
+      "FromBehind",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held9",
+      "Love0",
+      "Stim5",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "PILLORY"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND",
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE0",
+      "STIM5",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

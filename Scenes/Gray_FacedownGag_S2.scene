@@ -1,1 +1,77 @@
-{"Id":"Gray_FacedownGag_S2","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Stim-8","Rough","HandToVagina:0-0","HandToAnus:0-0","HandToMouth:0-0"],["F","NoFurn","Bound","Held9","Love-5","Stim0","Dom-3","GrayUser"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH"],"Service":[],"Attribute":["BOUND"],"Contact":[["HANDTOVAGINA:0-0","HANDTOANUS:0-0","HANDTOMOUTH:0-0"]],"Numeric":["STIM-8","HELD9","LOVE-5","STIM0","DOM-3"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Gray_FacedownGag_S2",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Stim-8",
+      "Rough",
+      "HandToVagina:0-0",
+      "HandToAnus:0-0",
+      "HandToMouth:0-0"
+    ],
+    [
+      "F",
+      "NoFurn",
+      "Bound",
+      "Held9",
+      "Love-5",
+      "Stim0",
+      "Dom-3",
+      "GrayUser"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH"
+    ],
+    "Service": [],
+    "Attribute": [
+      "BOUND"
+    ],
+    "Contact": [
+      [
+        "HANDTOVAGINA:0-0",
+        "HANDTOANUS:0-0",
+        "HANDTOMOUTH:0-0"
+      ]
+    ],
+    "Numeric": [
+      "STIM-8",
+      "HELD9",
+      "LOVE-5",
+      "STIM0",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

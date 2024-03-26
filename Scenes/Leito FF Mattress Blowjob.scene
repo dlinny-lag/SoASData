@@ -1,1 +1,82 @@
-{"Id":"Leito FF Mattress Blowjob","Type":"Sequence","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","Mattress","Blowjob","FromFront","Neutral","Held1","Stim1","Love5","Dom-3","NullToSelf","StrapOnToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["MATTRESS"],"Narrative":["BLOWJOB"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","STRAPONTOMOUTH"]],"Numeric":["HELD1","STIM1","LOVE5","DOM-3"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Mattress Blowjob",
+  "Type": "Sequence",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "Mattress",
+      "Blowjob",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Stim1",
+      "Love5",
+      "Dom-3",
+      "NullToSelf",
+      "StrapOnToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE5",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

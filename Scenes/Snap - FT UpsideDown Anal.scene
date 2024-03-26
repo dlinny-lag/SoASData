@@ -1,1 +1,84 @@
-{"Id":"Snap - FT UpsideDown Anal","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Tentacle","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[{"From":{"ReversePath":null,"Stimulation":50,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"SingleTentacle","ParticipantIndex":1},"To":{"ReversePath":"Torso","Stimulation":50,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"Anus","ParticipantIndex":0}}],"EnvironmentContacts":[],"RawTags":[["Stim5","Impaled","TentacleToAnus:1-0"]],"Authors":[],"Narrative":["IMPALED"],"Feeling":[],"Service":[],"Attribute":[],"Other":[],"Custom":{},"Tags":[],"Imported":{"Author":[],"Furniture":[],"Narrative":["IMPALED"],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["TENTACLETOANUS:1-0"]],"Numeric":["STIM5"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Snap - FT UpsideDown Anal",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Tentacle",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [
+    {
+      "From": {
+        "ReversePath": null,
+        "Stimulation": 50,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "SingleTentacle",
+        "ParticipantIndex": 1
+      },
+      "To": {
+        "ReversePath": "Torso",
+        "Stimulation": 50,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "Anus",
+        "ParticipantIndex": 0
+      }
+    }
+  ],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Stim5",
+      "Impaled",
+      "TentacleToAnus:1-0"
+    ]
+  ],
+  "Authors": [],
+  "Narrative": [
+    "IMPALED"
+  ],
+  "Feeling": [],
+  "Service": [],
+  "Attribute": [],
+  "Other": [],
+  "Custom": {},
+  "Tags": [],
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "IMPALED"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "TENTACLETOANUS:1-0"
+      ]
+    ],
+    "Numeric": [
+      "STIM5"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,84 @@
-{"Id":"PilloryOral_BJ-05","Type":"Single","Furniture":["Hydraulic_Pillory"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Zaz","F_M","HydroPillory","FromFront","Rough","Aggressive","MidStage","Held9","Love0","Stim1","Dom-9","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["ZAZ"],"Furniture":["HYDROPILLORY"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD9","LOVE0","STIM1","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "PilloryOral_BJ-05",
+  "Type": "Single",
+  "Furniture": [
+    "Hydraulic_Pillory"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Zaz",
+      "F_M",
+      "HydroPillory",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held9",
+      "Love0",
+      "Stim1",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "ZAZ"
+    ],
+    "Furniture": [
+      "HYDROPILLORY"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE0",
+      "STIM1",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

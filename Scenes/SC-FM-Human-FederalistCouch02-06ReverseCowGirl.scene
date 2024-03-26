@@ -1,1 +1,87 @@
-{"Id":"SC-FM-Human-FederalistCouch02-06ReverseCowGirl","Type":"Single","Furniture":["CouchFederalist"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Couch","Cowgirl","Anal","FromBehind","Neutral","MidStage","Held1","Love5","Stim5","Dom-3","NullToSelf","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["COUCH"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["ANAL","FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOANUS"]],"Numeric":["HELD1","LOVE5","STIM5","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-FederalistCouch02-06ReverseCowGirl",
+  "Type": "Single",
+  "Furniture": [
+    "CouchFederalist"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Couch",
+      "Cowgirl",
+      "Anal",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim5",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "COUCH"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "ANAL",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM5",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

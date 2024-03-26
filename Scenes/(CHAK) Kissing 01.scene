@@ -1,1 +1,70 @@
-{"Id":"(CHAK) Kissing 01","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["AVilas","NoFurn","Loving","Kissing","Foreplay","NonSex","NullToSelf","SEUKissing"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["AVILAS"],"Furniture":["NOFURN"],"Narrative":["KISSING","FOREPLAY"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF"]],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["NONSEX","SEUKISSING"]}}
+{
+  "Id": "(CHAK) Kissing 01",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "AVilas",
+      "NoFurn",
+      "Loving",
+      "Kissing",
+      "Foreplay",
+      "NonSex",
+      "NullToSelf",
+      "SEUKissing"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "AVILAS"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "KISSING",
+      "FOREPLAY"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "NONSEX",
+      "SEUKISSING"
+    ]
+  }
+}

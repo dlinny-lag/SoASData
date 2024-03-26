@@ -1,1 +1,84 @@
-{"Id":"Atomic Reversed Cowgirl (Vault Bed) Orgasm","Type":"Single","Furniture":["Single Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","SingleBed","Cowgirl","FromBehind","Neutral","ClimaxM","Held1","Stim9","Love5","Dom5","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["SINGLEBED"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND","CLIMAXM"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD1","STIM9","LOVE5","DOM5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Reversed Cowgirl (Vault Bed) Orgasm",
+  "Type": "Single",
+  "Furniture": [
+    "Single Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "SingleBed",
+      "Cowgirl",
+      "FromBehind",
+      "Neutral",
+      "ClimaxM",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "SINGLEBED"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND",
+      "CLIMAXM"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

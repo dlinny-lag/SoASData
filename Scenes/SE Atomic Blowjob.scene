@@ -1,1 +1,92 @@
-{"Id":"SE Atomic Blowjob","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[{"From":{"ReversePath":null,"Stimulation":50,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"Penis","ParticipantIndex":1},"To":{"ReversePath":"Face/Head","Stimulation":50,"Hold":0,"Pain":0,"Tickle":0,"Comfort":0,"PainType":"None","Area":"Mouth","ParticipantIndex":0}}],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","NoFurn","PenisToMouth","SF:F=F - Atomic Blowjob:M=M - Atomic Blowjob"]],"Authors":["RUFGT"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Other":["SF:F=F - ATOMIC BLOWJOB:M=M - ATOMIC BLOWJOB"],"Custom":{},"Tags":[],"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOMOUTH"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC BLOWJOB:M=M - ATOMIC BLOWJOB"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Blowjob",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [
+    {
+      "From": {
+        "ReversePath": null,
+        "Stimulation": 50,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "Penis",
+        "ParticipantIndex": 1
+      },
+      "To": {
+        "ReversePath": "Face/Head",
+        "Stimulation": 50,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 0,
+        "PainType": "None",
+        "Area": "Mouth",
+        "ParticipantIndex": 0
+      }
+    }
+  ],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "NoFurn",
+      "PenisToMouth",
+      "SF:F=F - Atomic Blowjob:M=M - Atomic Blowjob"
+    ]
+  ],
+  "Authors": [
+    "RUFGT"
+  ],
+  "Narrative": [],
+  "Feeling": [],
+  "Service": [],
+  "Attribute": [],
+  "Other": [
+    "SF:F=F - ATOMIC BLOWJOB:M=M - ATOMIC BLOWJOB"
+  ],
+  "Custom": {},
+  "Tags": [],
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC BLOWJOB:M=M - ATOMIC BLOWJOB"
+    ],
+    "Unknown": []
+  }
+}

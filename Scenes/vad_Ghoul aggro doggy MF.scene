@@ -1,1 +1,80 @@
-{"Id":"vad_Ghoul aggro doggy MF","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Vader","F_FGhoulM","NoFurn","Doggy","FromBehind","Aggressive","Held1","Stim5","Love3","Dom-5","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["VADER"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD1","STIM5","LOVE3","DOM-5"],"ActorTypes":["F_FGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "vad_Ghoul aggro doggy MF",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Vader",
+      "F_FGhoulM",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Aggressive",
+      "Held1",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "VADER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM5",
+      "LOVE3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

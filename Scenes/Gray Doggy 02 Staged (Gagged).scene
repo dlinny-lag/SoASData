@@ -1,1 +1,105 @@
-{"Id":"Gray Doggy 02 Staged (Gagged)","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","F_M","NoFurn","Kneeling","FromBehind","Rough","Aggressive","Gagged","Held5","Stim7","Love-9","Dom-9","NullToSelf","PenisToEither"],["F_M","NoFurn","Kneeling","FromBehind","aggressive","Held5","Stim7","Love-9","Dom-9","NullToSelf","PenisToEither","GrayUser"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":[],"Attribute":["KNEELING","FROMBEHIND","GAGGED"],"Contact":[["NULLTOSELF","PENISTOEITHER"],["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD5","STIM7","LOVE-9","DOM-9","HELD5","STIM7","LOVE-9","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Gray Doggy 02 Staged (Gagged)",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "F_M",
+      "NoFurn",
+      "Kneeling",
+      "FromBehind",
+      "Rough",
+      "Aggressive",
+      "Gagged",
+      "Held5",
+      "Stim7",
+      "Love-9",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToEither"
+    ],
+    [
+      "F_M",
+      "NoFurn",
+      "Kneeling",
+      "FromBehind",
+      "aggressive",
+      "Held5",
+      "Stim7",
+      "Love-9",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToEither",
+      "GrayUser"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "KNEELING",
+      "FROMBEHIND",
+      "GAGGED"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "STIM7",
+      "LOVE-9",
+      "DOM-9",
+      "HELD5",
+      "STIM7",
+      "LOVE-9",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

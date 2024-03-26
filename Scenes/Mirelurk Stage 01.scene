@@ -1,1 +1,89 @@
-{"Id":"Mirelurk Stage 01","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Mirelurk","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","P_MireLurk","NoFurn","Carry","FromFront","Rough","Aggressive","MidStage","Held5","Love1","Stim7","Dom-9","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["CARRY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD5","LOVE1","STIM7","DOM-9"],"ActorTypes":["P_MIRELURK"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Mirelurk Stage 01",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Mirelurk",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "P_MireLurk",
+      "NoFurn",
+      "Carry",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held5",
+      "Love1",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "LOVE1",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "P_MIRELURK"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

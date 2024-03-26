@@ -1,1 +1,107 @@
-{"Id":"Leito SuperMutant Carry","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Supermutant","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_SMutantM","NoFurn","Carry","FromFront","Neutral","Rough","MidStage","Held5","Stim5","Love3","Dom-5","NullToSelf","PenisToVagina"],["Leito","F_SMutantM","NoFurn","Carry","FromFront","Neutral","Held5","Stim5","Love3","Dom-5","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":["CARRY"],"Feeling":["NEUTRAL","ROUGH"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD5","STIM5","LOVE3","DOM-5","HELD5","STIM5","LOVE3","DOM-5"],"ActorTypes":["F_SMUTANTM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito SuperMutant Carry",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Supermutant",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_SMutantM",
+      "NoFurn",
+      "Carry",
+      "FromFront",
+      "Neutral",
+      "Rough",
+      "MidStage",
+      "Held5",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ],
+    [
+      "Leito",
+      "F_SMutantM",
+      "NoFurn",
+      "Carry",
+      "FromFront",
+      "Neutral",
+      "Held5",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "NEUTRAL",
+      "ROUGH"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "STIM5",
+      "LOVE3",
+      "DOM-5",
+      "HELD5",
+      "STIM5",
+      "LOVE3",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_SMUTANTM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

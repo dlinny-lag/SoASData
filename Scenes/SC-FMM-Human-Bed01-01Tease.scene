@@ -1,1 +1,94 @@
-{"Id":"SC-FMM-Human-Bed01-01Tease","Type":"Single","Furniture":["Single_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M","SingleBed","Handjob","Kneeling","FromBehind","Neutral","Tease","Held3","Love3","Stim1","Dom-3","NullToSelf","HandToNipples","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["SINGLEBED"],"Narrative":["HANDJOB"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["KNEELING","FROMBEHIND","TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES","PENISTOHAND"]],"Numeric":["HELD3","LOVE3","STIM1","DOM-3"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Human-Bed01-01Tease",
+  "Type": "Single",
+  "Furniture": [
+    "Single_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M",
+      "SingleBed",
+      "Handjob",
+      "Kneeling",
+      "FromBehind",
+      "Neutral",
+      "Tease",
+      "Held3",
+      "Love3",
+      "Stim1",
+      "Dom-3",
+      "NullToSelf",
+      "HandToNipples",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "SINGLEBED"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "KNEELING",
+      "FROMBEHIND",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE3",
+      "STIM1",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

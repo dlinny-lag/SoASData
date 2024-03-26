@@ -1,1 +1,67 @@
-{"Id":"SE SC FF Weapon Workbench 1-1 Tease","Type":"Single","Furniture":["Weapon_Workbench_Large"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_F","Weapon_Workbench_Large","FaceDown","FromBehind","Neutral","Tease"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["WEAPON_WORKBENCH_LARGE"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FACEDOWN","FROMBEHIND","TEASE"],"Contact":[],"Numeric":[],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SE SC FF Weapon Workbench 1-1 Tease",
+  "Type": "Single",
+  "Furniture": [
+    "Weapon_Workbench_Large"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_F",
+      "Weapon_Workbench_Large",
+      "FaceDown",
+      "FromBehind",
+      "Neutral",
+      "Tease"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "WEAPON_WORKBENCH_LARGE"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FACEDOWN",
+      "FROMBEHIND",
+      "TEASE"
+    ],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

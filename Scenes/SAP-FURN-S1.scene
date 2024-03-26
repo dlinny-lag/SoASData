@@ -1,1 +1,50 @@
-{"Id":"SAP-FURN-S1","Type":"Single","Furniture":["Operation_Chair"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SAP","Pose","Furniture"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":[],"Furniture":[],"Narrative":["POSE"],"Feeling":[],"Service":[],"Attribute":[],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["SAP","FURNITURE"]}}
+{
+  "Id": "SAP-FURN-S1",
+  "Type": "Single",
+  "Furniture": [
+    "Operation_Chair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SAP",
+      "Pose",
+      "Furniture"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "POSE"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "SAP",
+      "FURNITURE"
+    ]
+  }
+}

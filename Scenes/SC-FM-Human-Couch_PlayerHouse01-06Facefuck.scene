@@ -1,1 +1,84 @@
-{"Id":"SC-FM-Human-Couch_PlayerHouse01-06Facefuck","Type":"Single","Furniture":["Couches"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Couch","Blowjob","FromFront","Neutral","ClimaxM","Held1","Love3","Stim1","Dom-5","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["COUCH"],"Narrative":["BLOWJOB"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT","CLIMAXM"],"Contact":[["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD1","LOVE3","STIM1","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-Couch_PlayerHouse01-06Facefuck",
+  "Type": "Single",
+  "Furniture": [
+    "Couches"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Couch",
+      "Blowjob",
+      "FromFront",
+      "Neutral",
+      "ClimaxM",
+      "Held1",
+      "Love3",
+      "Stim1",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "COUCH"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT",
+      "CLIMAXM"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE3",
+      "STIM1",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

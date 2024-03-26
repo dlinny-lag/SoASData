@@ -1,1 +1,84 @@
-{"Id":"Leito FF Bed Spoon","Type":"Sequence","Furniture":["Single_Bed","Double_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","SingleBed","DoubleBed","Bed","FromBehind","Neutral","Held1","Stim1","Love7","Dom-1","NullToSelf","StrapOnToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["SINGLEBED","DOUBLEBED","BED"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","STRAPONTOVAGINA"]],"Numeric":["HELD1","STIM1","LOVE7","DOM-1"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Bed Spoon",
+  "Type": "Sequence",
+  "Furniture": [
+    "Single_Bed",
+    "Double_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "SingleBed",
+      "DoubleBed",
+      "Bed",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim1",
+      "Love7",
+      "Dom-1",
+      "NullToSelf",
+      "StrapOnToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "SINGLEBED",
+      "DOUBLEBED",
+      "BED"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE7",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

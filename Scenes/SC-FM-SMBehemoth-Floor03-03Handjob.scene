@@ -1,1 +1,83 @@
-{"Id":"SC-FM-SMBehemoth-Floor03-03Handjob","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"SupermutantBehemoth","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_SMBehemoth","NoFurn","Handjob","FromFront","Neutral","MidStage","Held3","Love1","Stim1","Dom-5","NullToSelf","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["HANDJOB"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND"]],"Numeric":["HELD3","LOVE1","STIM1","DOM-5"],"ActorTypes":["F_SMBEHEMOTH"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-SMBehemoth-Floor03-03Handjob",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "SupermutantBehemoth",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_SMBehemoth",
+      "NoFurn",
+      "Handjob",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love1",
+      "Stim1",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE1",
+      "STIM1",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_SMBEHEMOTH"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

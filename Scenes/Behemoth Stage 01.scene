@@ -1,1 +1,89 @@
-{"Id":"Behemoth Stage 01","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"SupermutantBehemoth","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","F_SMBehemoth","NoFurn","Cowgirl","FromFront","Rough","Aggressive","MidStage","Held9","Stim9","Love5","Dom3","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["COWGIRL"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD9","STIM9","LOVE5","DOM3"],"ActorTypes":["F_SMBEHEMOTH"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Behemoth Stage 01",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "SupermutantBehemoth",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "F_SMBehemoth",
+      "NoFurn",
+      "Cowgirl",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held9",
+      "Stim9",
+      "Love5",
+      "Dom3",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "STIM9",
+      "LOVE5",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_SMBEHEMOTH"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

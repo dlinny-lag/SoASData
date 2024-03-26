@@ -1,1 +1,90 @@
-{"Id":"SE Leito Bed Doggy 2 S4","Type":"Single","Furniture":["Single_Bed","Double_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","SingleBed","DoubleBed","Bed","Doggy","FromBehind","Neutral","Held1","Stim7","Love5","Dom-5","NullToSelf","PenisToVagina","SF:F=F - Leito Doggy 2 S4:M=M - Leito Doggy 2 S3"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["SINGLEBED","DOUBLEBED","BED"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO DOGGY 2 S4:M=M - LEITO DOGGY 2 S3"],"Unknown":[]}}
+{
+  "Id": "SE Leito Bed Doggy 2 S4",
+  "Type": "Single",
+  "Furniture": [
+    "Single_Bed",
+    "Double_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "SingleBed",
+      "DoubleBed",
+      "Bed",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "Held1",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=F - Leito Doggy 2 S4:M=M - Leito Doggy 2 S3"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "SINGLEBED",
+      "DOUBLEBED",
+      "BED"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO DOGGY 2 S4:M=M - LEITO DOGGY 2 S3"
+    ],
+    "Unknown": []
+  }
+}

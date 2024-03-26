@@ -1,1 +1,87 @@
-{"Id":"Gray_Doggy02FFGag_S4","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","F_F","NoFurn","Doggy","FromBehind","Neutral","Gagged","Held3","Stim7","Love5","Dom-5","NullToSelf","StrapOnToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["DOGGY"],"Feeling":["NEUTRAL"],"Service":["UTILITY","HIDDEN"],"Attribute":["FROMBEHIND","GAGGED"],"Contact":[["NULLTOSELF","STRAPONTOVAGINA"]],"Numeric":["HELD3","STIM7","LOVE5","DOM-5"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Gray_Doggy02FFGag_S4",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "F_F",
+      "NoFurn",
+      "Doggy",
+      "FromBehind",
+      "Neutral",
+      "Gagged",
+      "Held3",
+      "Stim7",
+      "Love5",
+      "Dom-5",
+      "NullToSelf",
+      "StrapOnToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN"
+    ],
+    "Attribute": [
+      "FROMBEHIND",
+      "GAGGED"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM7",
+      "LOVE5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,89 @@
-{"Id":"Stingwing stage 03","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Stingwing","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","Utility","Hidden","P_StgWing","NoFurn","Missionary","FromFront","Rough","Aggressive","MidStage","Held5","Love1","Stim7","Dom-9","NullToSelf","OviposToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["NOFURN"],"Narrative":["MISSIONARY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","OVIPOSTOEITHER"]],"Numeric":["HELD5","LOVE1","STIM7","DOM-9"],"ActorTypes":["P_STGWING"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Stingwing stage 03",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Stingwing",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "Utility",
+      "Hidden",
+      "P_StgWing",
+      "NoFurn",
+      "Missionary",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "MidStage",
+      "Held5",
+      "Love1",
+      "Stim7",
+      "Dom-9",
+      "NullToSelf",
+      "OviposToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "OVIPOSTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "LOVE1",
+      "STIM7",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "P_STGWING"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

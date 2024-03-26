@@ -1,1 +1,93 @@
-{"Id":"SC-FMM-Human-Couch02-03Handjob","Type":"Single","Furniture":["Couches"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M","Couch","Handjob","FromFront","Neutral","MidStage","Held3","Love3","Stim5","Dom-5","NullToSelf","PenisToHand","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["COUCH"],"Narrative":["HANDJOB"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND","PENISTOHAND"]],"Numeric":["HELD3","LOVE3","STIM5","DOM-5"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Human-Couch02-03Handjob",
+  "Type": "Single",
+  "Furniture": [
+    "Couches"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M",
+      "Couch",
+      "Handjob",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love3",
+      "Stim5",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToHand",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "COUCH"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE3",
+      "STIM5",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

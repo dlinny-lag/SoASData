@@ -1,1 +1,95 @@
-{"Id":"SC-FMM-Human-Armchair02-04HandjobDoggy","Type":"Single","Furniture":["ArmChair"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_M","ArmChair","Handjob","Kneeling","FromBehind","Neutral","MidStage","Held3","Love3","Stim7","Dom-5","NullToSelf","PenisToVagina","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["ARMCHAIR"],"Narrative":["HANDJOB"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["KNEELING","FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOHAND"]],"Numeric":["HELD3","LOVE3","STIM7","DOM-5"],"ActorTypes":["F_M_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Human-Armchair02-04HandjobDoggy",
+  "Type": "Single",
+  "Furniture": [
+    "ArmChair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_M",
+      "ArmChair",
+      "Handjob",
+      "Kneeling",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love3",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [
+      "HANDJOB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "KNEELING",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE3",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,65 @@
-{"Id":"SE Atomic Cryo Pod Anal","Type":"Single","Furniture":["Cryo Pod"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","CryoPod","PenisToAnus","SF:F=F - Atomic Cryo Pod Anal:M=M - Atomic Cryo Pod Anal"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["CRYOPOD"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOANUS"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC CRYO POD ANAL:M=M - ATOMIC CRYO POD ANAL"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Cryo Pod Anal",
+  "Type": "Single",
+  "Furniture": [
+    "Cryo Pod"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "CryoPod",
+      "PenisToAnus",
+      "SF:F=F - Atomic Cryo Pod Anal:M=M - Atomic Cryo Pod Anal"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "CRYOPOD"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC CRYO POD ANAL:M=M - ATOMIC CRYO POD ANAL"
+    ],
+    "Unknown": []
+  }
+}

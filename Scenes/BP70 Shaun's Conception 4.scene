@@ -1,1 +1,109 @@
-{"Id":"BP70 Shaun's Conception 4","Type":"Single","Furniture":["Park Bench"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","F_M","Bench","Missionary","FromFront","Neutral","MidStage","Held1","Stim5","Love3","Dom-5","NullToSelf","PenisToVagina"],["BP70","F_M","Bench","Missionary","FromFront","Loving","MidStage","Held1","Love9","Stim3","Dom3","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["BENCH"],"Narrative":["MISSIONARY"],"Feeling":["NEUTRAL","LOVING"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"],["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM5","LOVE3","DOM-5","HELD1","LOVE9","STIM3","DOM3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Shaun's Conception 4",
+  "Type": "Single",
+  "Furniture": [
+    "Park Bench"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "F_M",
+      "Bench",
+      "Missionary",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim5",
+      "Love3",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ],
+    [
+      "BP70",
+      "F_M",
+      "Bench",
+      "Missionary",
+      "FromFront",
+      "Loving",
+      "MidStage",
+      "Held1",
+      "Love9",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "BENCH"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "NEUTRAL",
+      "LOVING"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM5",
+      "LOVE3",
+      "DOM-5",
+      "HELD1",
+      "LOVE9",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

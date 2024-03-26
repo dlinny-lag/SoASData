@@ -1,1 +1,79 @@
-{"Id":"SC-FM-Human-ArmorBench01-01Tease","Type":"Single","Furniture":["ArmorBench"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","ArmorBench","Neutral","Tease","Held1","Love3","Stim1","Dom-3","NullToSelf","HandtoAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["ARMORBENCH"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","HANDTOANUS"]],"Numeric":["HELD1","LOVE3","STIM1","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-ArmorBench01-01Tease",
+  "Type": "Single",
+  "Furniture": [
+    "ArmorBench"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "ArmorBench",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love3",
+      "Stim1",
+      "Dom-3",
+      "NullToSelf",
+      "HandtoAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "ARMORBENCH"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE3",
+      "STIM1",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

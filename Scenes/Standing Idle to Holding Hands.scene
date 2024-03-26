@@ -1,1 +1,84 @@
-{"Id":"Standing Idle to Holding Hands","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","Utility","Hidden","F_M","NoFurn","Hugging","Loving","MidStage","Held1","Stim1","Love5","Dom0","NullToSelf","HandToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":["HUGGING"],"Feeling":["LOVING"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":[],"Contact":[["NULLTOSELF","HANDTOHAND"]],"Numeric":["HELD1","STIM1","LOVE5","DOM0"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Standing Idle to Holding Hands",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "Utility",
+      "Hidden",
+      "F_M",
+      "NoFurn",
+      "Hugging",
+      "Loving",
+      "MidStage",
+      "Held1",
+      "Stim1",
+      "Love5",
+      "Dom0",
+      "NullToSelf",
+      "HandToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "HUGGING"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE5",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

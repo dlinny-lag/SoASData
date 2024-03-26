@@ -1,1 +1,86 @@
-{"Id":"SC-FM-Dog-Floor02-01Tease","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_DogM","NoFurn","Foreplay","Kneeling","FromFront","Rough","Aggressive","Tease","Held1","Love5","Stim7","Dom-5","NullToSelf","MouthToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["FOREPLAY"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":[],"Attribute":["KNEELING","FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","MOUTHTOMOUTH"]],"Numeric":["HELD1","LOVE5","STIM7","DOM-5"],"ActorTypes":["F_DOGM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Dog-Floor02-01Tease",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_DogM",
+      "NoFurn",
+      "Foreplay",
+      "Kneeling",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf",
+      "MouthToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "FOREPLAY"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "KNEELING",
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_DOGM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

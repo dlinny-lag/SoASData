@@ -1,1 +1,79 @@
-{"Id":"SC-FM-Human-LapDance01-01LapDance","Type":"Single","Furniture":["ArmChair"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","ArmChair","Dancing","Loving","Held1","Love5","Stim3","Dom-3","NullToSelf","HandToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["ARMCHAIR"],"Narrative":["DANCING"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD1","LOVE5","STIM3","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-LapDance01-01LapDance",
+  "Type": "Single",
+  "Furniture": [
+    "ArmChair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "ArmChair",
+      "Dancing",
+      "Loving",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [
+      "DANCING"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

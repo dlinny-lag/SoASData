@@ -1,1 +1,84 @@
-{"Id":"Leito Aggressive Mattress Carry","Type":"Single","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","Mattress","Carry","FromFront","Aggressive","Cuffed","Held5","Stim7","Love-9","Dom-9","NullToSelf","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["MATTRESS"],"Narrative":["CARRY"],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":["FROMFRONT","CUFFED"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD5","STIM7","LOVE-9","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito Aggressive Mattress Carry",
+  "Type": "Single",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "Mattress",
+      "Carry",
+      "FromFront",
+      "Aggressive",
+      "Cuffed",
+      "Held5",
+      "Stim7",
+      "Love-9",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT",
+      "CUFFED"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "STIM7",
+      "LOVE-9",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

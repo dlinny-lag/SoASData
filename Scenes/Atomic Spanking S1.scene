@@ -1,1 +1,87 @@
-{"Id":"Atomic Spanking S1","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","Utility","Hidden","F_M","NoFurn","Spanking","FromBehind","Neutral","MidStage","Held3","Stim3","Love3","Dom-3","NullToSelf","SpankToButt"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":["SPANKING"],"Feeling":["NEUTRAL"],"Service":["UTILITY","HIDDEN","MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","SPANKTOBUTT"]],"Numeric":["HELD3","STIM3","LOVE3","DOM-3"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Spanking S1",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "Utility",
+      "Hidden",
+      "F_M",
+      "NoFurn",
+      "Spanking",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Stim3",
+      "Love3",
+      "Dom-3",
+      "NullToSelf",
+      "SpankToButt"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "SPANKING"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "UTILITY",
+      "HIDDEN",
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "SPANKTOBUTT"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM3",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

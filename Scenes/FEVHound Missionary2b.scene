@@ -1,1 +1,77 @@
-{"Id":"FEVHound Missionary2b","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"FEVHound","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Brave","NoFurn","Missionary","FromFront","Loving","Held3","Stim9","Love3","Dom-3","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BRAVE"],"Furniture":["NOFURN"],"Narrative":["MISSIONARY"],"Feeling":["LOVING"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD3","STIM9","LOVE3","DOM-3"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "FEVHound Missionary2b",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FEVHound",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Brave",
+      "NoFurn",
+      "Missionary",
+      "FromFront",
+      "Loving",
+      "Held3",
+      "Stim9",
+      "Love3",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BRAVE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM9",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

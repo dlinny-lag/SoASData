@@ -1,1 +1,83 @@
-{"Id":"SC-FM-FeralGhoul-Standing01-01Tease","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_FGhoulM","NoFurn","Standing","FromFront","Rough","Aggressive","Tease","Held3","Love0","Stim7","Dom-7","NullToSelf","HandToNipples"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH","AGGRESSIVE"],"Service":[],"Attribute":["STANDING","FROMFRONT","TEASE"],"Contact":[["NULLTOSELF","HANDTONIPPLES"]],"Numeric":["HELD3","LOVE0","STIM7","DOM-7"],"ActorTypes":["F_FGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-FeralGhoul-Standing01-01Tease",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_FGhoulM",
+      "NoFurn",
+      "Standing",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "Tease",
+      "Held3",
+      "Love0",
+      "Stim7",
+      "Dom-7",
+      "NullToSelf",
+      "HandToNipples"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "STANDING",
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "HANDTONIPPLES"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE0",
+      "STIM7",
+      "DOM-7"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

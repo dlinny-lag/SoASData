@@ -1,1 +1,105 @@
-{"Id":"Leito FF Cowgirl 2","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","NoFurn","Cowgirl","FromFront","Neutral","MidStage","Held1","Stim9","Love5","Dom5","NullToSelf","StrapOnToEither"],["Leito","F_F","NoFurn","Cowgirl","FromFront","Neutral","Held1","Stim9","Love5","Dom5","NullToSelf","StrapOnToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["NOFURN"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","STRAPONTOEITHER"],["NULLTOSELF","STRAPONTOEITHER"]],"Numeric":["HELD1","STIM9","LOVE5","DOM5","HELD1","STIM9","LOVE5","DOM5"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Cowgirl 2",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "Cowgirl",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "StrapOnToEither"
+    ],
+    [
+      "Leito",
+      "F_F",
+      "NoFurn",
+      "Cowgirl",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "StrapOnToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOEITHER"
+      ],
+      [
+        "NULLTOSELF",
+        "STRAPONTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM5",
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

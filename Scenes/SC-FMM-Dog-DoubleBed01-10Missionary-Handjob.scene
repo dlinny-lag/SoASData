@@ -1,1 +1,93 @@
-{"Id":"SC-FMM-Dog-DoubleBed01-10Missionary-Handjob","Type":"Single","Furniture":["Double_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_DogM","DoubleBed","Missionary","FromFront","Neutral","MidStage","Held1","Love5","Stim7","Dom-7","NullToSelf","PenisToVagina","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["DOUBLEBED"],"Narrative":["MISSIONARY"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOHAND"]],"Numeric":["HELD1","LOVE5","STIM7","DOM-7"],"ActorTypes":["F_DOGM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Dog-DoubleBed01-10Missionary-Handjob",
+  "Type": "Single",
+  "Furniture": [
+    "Double_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_DogM",
+      "DoubleBed",
+      "Missionary",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love5",
+      "Stim7",
+      "Dom-7",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "DOUBLEBED"
+    ],
+    "Narrative": [
+      "MISSIONARY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM7",
+      "DOM-7"
+    ],
+    "ActorTypes": [
+      "F_DOGM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

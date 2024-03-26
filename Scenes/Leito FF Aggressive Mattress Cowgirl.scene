@@ -1,1 +1,84 @@
-{"Id":"Leito FF Aggressive Mattress Cowgirl","Type":"Single","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_F","Mattress","Cowgirl","FromFront","Aggressive","Cuffed","Held5","Stim7","Love-9","Dom-9","NullToSelf","StrapOnToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["MATTRESS"],"Narrative":["COWGIRL"],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":["FROMFRONT","CUFFED"],"Contact":[["NULLTOSELF","STRAPONTOEITHER"]],"Numeric":["HELD5","STIM7","LOVE-9","DOM-9"],"ActorTypes":["F_F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Leito FF Aggressive Mattress Cowgirl",
+  "Type": "Single",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_F",
+      "Mattress",
+      "Cowgirl",
+      "FromFront",
+      "Aggressive",
+      "Cuffed",
+      "Held5",
+      "Stim7",
+      "Love-9",
+      "Dom-9",
+      "NullToSelf",
+      "StrapOnToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT",
+      "CUFFED"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "STRAPONTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "STIM7",
+      "LOVE-9",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

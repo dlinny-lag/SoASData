@@ -1,1 +1,72 @@
-{"Id":"Atomic Jerking (Orgasm)","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","M","NoFurn","Masturbation","Neutral","Climax","Held0","Stim7","Love-1","Dom0","HandToPenis"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["NOFURN"],"Narrative":["MASTURBATION"],"Feeling":["NEUTRAL"],"Service":["CLIMAX"],"Attribute":[],"Contact":[["HANDTOPENIS"]],"Numeric":["HELD0","STIM7","LOVE-1","DOM0"],"ActorTypes":["M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Jerking (Orgasm)",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "M",
+      "NoFurn",
+      "Masturbation",
+      "Neutral",
+      "Climax",
+      "Held0",
+      "Stim7",
+      "Love-1",
+      "Dom0",
+      "HandToPenis"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "MASTURBATION"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "CLIMAX"
+    ],
+    "Attribute": [],
+    "Contact": [
+      [
+        "HANDTOPENIS"
+      ]
+    ],
+    "Numeric": [
+      "HELD0",
+      "STIM7",
+      "LOVE-1",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

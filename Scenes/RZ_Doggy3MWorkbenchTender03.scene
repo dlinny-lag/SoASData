@@ -1,1 +1,72 @@
-{"Id":"RZ_Doggy3MWorkbenchTender03","Type":"Single","Furniture":["Workbench"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["RohZima","Doggy","Workbench","Tender"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["ROHZIMA"],"Furniture":[],"Narrative":["DOGGY"],"Feeling":[],"Service":[],"Attribute":["TENDER"],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["WORKBENCH"]}}
+{
+  "Id": "RZ_Doggy3MWorkbenchTender03",
+  "Type": "Single",
+  "Furniture": [
+    "Workbench"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "RohZima",
+      "Doggy",
+      "Workbench",
+      "Tender"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "ROHZIMA"
+    ],
+    "Furniture": [],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [
+      "TENDER"
+    ],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "WORKBENCH"
+    ]
+  }
+}

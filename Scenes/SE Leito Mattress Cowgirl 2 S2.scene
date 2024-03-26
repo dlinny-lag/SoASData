@@ -1,1 +1,85 @@
-{"Id":"SE Leito Mattress Cowgirl 2 S2","Type":"Single","Furniture":["Mattress"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","Mattress","Cowgirl","FromFront","Neutral","Held1","Stim9","Love5","Dom5","NullToSelf","PenisToVagina","SF:F=Pussy Open Doggy:M=M - Leito Cowgirl 2 S2"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["MATTRESS"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD1","STIM9","LOVE5","DOM5"],"ActorTypes":["F_M"],"Other":["SF:F=PUSSY OPEN DOGGY:M=M - LEITO COWGIRL 2 S2"],"Unknown":[]}}
+{
+  "Id": "SE Leito Mattress Cowgirl 2 S2",
+  "Type": "Single",
+  "Furniture": [
+    "Mattress"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "Mattress",
+      "Cowgirl",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom5",
+      "NullToSelf",
+      "PenisToVagina",
+      "SF:F=Pussy Open Doggy:M=M - Leito Cowgirl 2 S2"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "MATTRESS"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=PUSSY OPEN DOGGY:M=M - LEITO COWGIRL 2 S2"
+    ],
+    "Unknown": []
+  }
+}

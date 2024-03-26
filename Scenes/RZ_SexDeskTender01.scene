@@ -1,1 +1,60 @@
-{"Id":"RZ_SexDeskTender01","Type":"Single","Furniture":["Desks"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["RohZima","Doggy","Desk","Tender"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["ROHZIMA"],"Furniture":["DESK"],"Narrative":["DOGGY"],"Feeling":[],"Service":[],"Attribute":["TENDER"],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "RZ_SexDeskTender01",
+  "Type": "Single",
+  "Furniture": [
+    "Desks"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "RohZima",
+      "Doggy",
+      "Desk",
+      "Tender"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "ROHZIMA"
+    ],
+    "Furniture": [
+      "DESK"
+    ],
+    "Narrative": [
+      "DOGGY"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [
+      "TENDER"
+    ],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

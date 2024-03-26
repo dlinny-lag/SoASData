@@ -1,1 +1,87 @@
-{"Id":"vad_Ghoul 3w MMF1","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Vader","F_FGhoulM_FGhoulM","FGhoulM","NoFurn","Aggressive","Held7","Stim5","Love3","Dom-9","NullToSelf","PenisToVagina","PenisToAnus","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["VADER"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["AGGRESSIVE"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOANUS","PENISTOMOUTH"]],"Numeric":["HELD7","STIM5","LOVE3","DOM-9"],"ActorTypes":["F_FGHOULM_FGHOULM"],"Other":[],"Unknown":["FGHOULM"]}}
+{
+  "Id": "vad_Ghoul 3w MMF1",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Vader",
+      "F_FGhoulM_FGhoulM",
+      "FGhoulM",
+      "NoFurn",
+      "Aggressive",
+      "Held7",
+      "Stim5",
+      "Love3",
+      "Dom-9",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToAnus",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "VADER"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOANUS",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD7",
+      "STIM5",
+      "LOVE3",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": [
+      "FGHOULM"
+    ]
+  }
+}

@@ -1,1 +1,65 @@
-{"Id":"SE Atomic Chair Blowjob","Type":"Single","Furniture":["Player House Chair"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","ArmChair","PenisToMouth","SF:F=F - Atomic Chair Blowjob:M=M - Atomic Chair Blowjob"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["ARMCHAIR"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOMOUTH"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC CHAIR BLOWJOB:M=M - ATOMIC CHAIR BLOWJOB"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Chair Blowjob",
+  "Type": "Single",
+  "Furniture": [
+    "Player House Chair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "ArmChair",
+      "PenisToMouth",
+      "SF:F=F - Atomic Chair Blowjob:M=M - Atomic Chair Blowjob"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC CHAIR BLOWJOB:M=M - ATOMIC CHAIR BLOWJOB"
+    ],
+    "Unknown": []
+  }
+}

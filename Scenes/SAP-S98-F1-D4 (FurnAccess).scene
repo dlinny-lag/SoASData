@@ -1,1 +1,50 @@
-{"Id":"SAP-S98-F1-D4 (FurnAccess)","Type":"Single","Furniture":["Modded(V)_InclinedChair"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SAP","Pose","Furniture"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":[],"Furniture":[],"Narrative":["POSE"],"Feeling":[],"Service":[],"Attribute":[],"Contact":[],"Numeric":[],"ActorTypes":[],"Other":[],"Unknown":["SAP","FURNITURE"]}}
+{
+  "Id": "SAP-S98-F1-D4 (FurnAccess)",
+  "Type": "Single",
+  "Furniture": [
+    "Modded(V)_InclinedChair"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SAP",
+      "Pose",
+      "Furniture"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [],
+    "Furniture": [],
+    "Narrative": [
+      "POSE"
+    ],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [],
+    "Numeric": [],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": [
+      "SAP",
+      "FURNITURE"
+    ]
+  }
+}

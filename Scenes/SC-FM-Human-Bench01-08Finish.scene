@@ -1,1 +1,87 @@
-{"Id":"SC-FM-Human-Bench01-08Finish","Type":"Single","Furniture":["Bench"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Bench","Cowgirl","Anal","FromBehind","Neutral","Finish","Held1","Love5","Stim7","Dom-5","NullToSelf","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["BENCH"],"Narrative":["COWGIRL"],"Feeling":["NEUTRAL"],"Service":["FINISH"],"Attribute":["ANAL","FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOANUS"]],"Numeric":["HELD1","LOVE5","STIM7","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-Human-Bench01-08Finish",
+  "Type": "Single",
+  "Furniture": [
+    "Bench"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Bench",
+      "Cowgirl",
+      "Anal",
+      "FromBehind",
+      "Neutral",
+      "Finish",
+      "Held1",
+      "Love5",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "BENCH"
+    ],
+    "Narrative": [
+      "COWGIRL"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "FINISH"
+    ],
+    "Attribute": [
+      "ANAL",
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE5",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

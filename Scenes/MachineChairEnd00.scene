@@ -1,1 +1,76 @@
-{"Id":"MachineChairEnd00","Type":"Single","Furniture":["MachineChairFurniture"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","utility","hidden","F","MachineChair","Bound","Electrocuted","Held9","Love-9","Stim-3","Dom-1","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["MACHINECHAIR"],"Narrative":["ELECTROCUTED"],"Feeling":[],"Service":["UTILITY","HIDDEN"],"Attribute":["BOUND"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD9","LOVE-9","STIM-3","DOM-1"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "MachineChairEnd00",
+  "Type": "Single",
+  "Furniture": [
+    "MachineChairFurniture"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "utility",
+      "hidden",
+      "F",
+      "MachineChair",
+      "Bound",
+      "Electrocuted",
+      "Held9",
+      "Love-9",
+      "Stim-3",
+      "Dom-1",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "MACHINECHAIR"
+    ],
+    "Narrative": [
+      "ELECTROCUTED"
+    ],
+    "Feeling": [],
+    "Service": [
+      "UTILITY",
+      "HIDDEN"
+    ],
+    "Attribute": [
+      "BOUND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE-9",
+      "STIM-3",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

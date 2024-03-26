@@ -1,1 +1,93 @@
-{"Id":"SC-FMM-Dog-DoubleBed01-08Switch","Type":"Single","Furniture":["Double_Bed"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Dog","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_DogM_DogM","DoubleBed","Switch","FromFront","Neutral","MidStage","Held1","Love0","Stim0","Dom0","NullToSelf","PenisToHand","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["DOUBLEBED"],"Narrative":["SWITCH"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOHAND","PENISTOHAND"]],"Numeric":["HELD1","LOVE0","STIM0","DOM0"],"ActorTypes":["F_DOGM_DOGM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-Dog-DoubleBed01-08Switch",
+  "Type": "Single",
+  "Furniture": [
+    "Double_Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Dog",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_DogM_DogM",
+      "DoubleBed",
+      "Switch",
+      "FromFront",
+      "Neutral",
+      "MidStage",
+      "Held1",
+      "Love0",
+      "Stim0",
+      "Dom0",
+      "NullToSelf",
+      "PenisToHand",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "DOUBLEBED"
+    ],
+    "Narrative": [
+      "SWITCH"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOHAND",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE0",
+      "STIM0",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "F_DOGM_DOGM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

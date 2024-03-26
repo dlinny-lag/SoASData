@@ -1,1 +1,77 @@
-{"Id":"Deathclaw Sitting Kissing","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Deathclaw","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Brave","NoFurn","Kissing","FromFront","Loving","Held3","Stim3","Love3","Dom-3","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BRAVE"],"Furniture":["NOFURN"],"Narrative":["KISSING"],"Feeling":["LOVING"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD3","STIM3","LOVE3","DOM-3"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Deathclaw Sitting Kissing",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Deathclaw",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Brave",
+      "NoFurn",
+      "Kissing",
+      "FromFront",
+      "Loving",
+      "Held3",
+      "Stim3",
+      "Love3",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BRAVE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "KISSING"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM3",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,100 @@
-{"Id":"BP70 Male Masturbation (Double Bed)","Type":"Single","Furniture":["Double Bed"],"Participants":[{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["BP70","M","DoubleBed","Masturbation","Neutral","MidStage","Held-1","Stim7","Love0","Dom0","HandToPenis"],["BP70","M","DoubleBed","Masturbation","FromFront","Neutral","Tease","Held1","Love5","Stim3","Dom3","NullToSelf","PenisToHand"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BP70"],"Furniture":["DOUBLEBED"],"Narrative":["MASTURBATION"],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT","TEASE"],"Contact":[["HANDTOPENIS"],["NULLTOSELF","PENISTOHAND"]],"Numeric":["HELD-1","STIM7","LOVE0","DOM0","HELD1","LOVE5","STIM3","DOM3"],"ActorTypes":["M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "BP70 Male Masturbation (Double Bed)",
+  "Type": "Single",
+  "Furniture": [
+    "Double Bed"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "BP70",
+      "M",
+      "DoubleBed",
+      "Masturbation",
+      "Neutral",
+      "MidStage",
+      "Held-1",
+      "Stim7",
+      "Love0",
+      "Dom0",
+      "HandToPenis"
+    ],
+    [
+      "BP70",
+      "M",
+      "DoubleBed",
+      "Masturbation",
+      "FromFront",
+      "Neutral",
+      "Tease",
+      "Held1",
+      "Love5",
+      "Stim3",
+      "Dom3",
+      "NullToSelf",
+      "PenisToHand"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BP70"
+    ],
+    "Furniture": [
+      "DOUBLEBED"
+    ],
+    "Narrative": [
+      "MASTURBATION"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT",
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "HANDTOPENIS"
+      ],
+      [
+        "NULLTOSELF",
+        "PENISTOHAND"
+      ]
+    ],
+    "Numeric": [
+      "HELD-1",
+      "STIM7",
+      "LOVE0",
+      "DOM0",
+      "HELD1",
+      "LOVE5",
+      "STIM3",
+      "DOM3"
+    ],
+    "ActorTypes": [
+      "M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

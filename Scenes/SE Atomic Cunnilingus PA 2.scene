@@ -1,1 +1,65 @@
-{"Id":"SE Atomic Cunnilingus PA 2","Type":"Single","Furniture":["Power Armor Station"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","PAStation","MouthToVagina","SF:F=F - Atomic Cunnilingus PA:M=M - Atomic Cunnilingus PA 2"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["PASTATION"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["MOUTHTOVAGINA"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC CUNNILINGUS PA:M=M - ATOMIC CUNNILINGUS PA 2"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Cunnilingus PA 2",
+  "Type": "Single",
+  "Furniture": [
+    "Power Armor Station"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "PAStation",
+      "MouthToVagina",
+      "SF:F=F - Atomic Cunnilingus PA:M=M - Atomic Cunnilingus PA 2"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "PASTATION"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "MOUTHTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC CUNNILINGUS PA:M=M - ATOMIC CUNNILINGUS PA 2"
+    ],
+    "Unknown": []
+  }
+}

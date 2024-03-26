@@ -1,1 +1,65 @@
-{"Id":"SE Atomic Cryo Pod","Type":"Single","Furniture":["Cryo Pod"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","CryoPod","PenisToVagina","SF:F=F - Atomic Cryo Pod:M=M - Atomic Cryo Pod"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["CRYOPOD"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["PENISTOVAGINA"]],"Numeric":[],"ActorTypes":["F_M"],"Other":["SF:F=F - ATOMIC CRYO POD:M=M - ATOMIC CRYO POD"],"Unknown":[]}}
+{
+  "Id": "SE Atomic Cryo Pod",
+  "Type": "Single",
+  "Furniture": [
+    "Cryo Pod"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "CryoPod",
+      "PenisToVagina",
+      "SF:F=F - Atomic Cryo Pod:M=M - Atomic Cryo Pod"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "CRYOPOD"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - ATOMIC CRYO POD:M=M - ATOMIC CRYO POD"
+    ],
+    "Unknown": []
+  }
+}

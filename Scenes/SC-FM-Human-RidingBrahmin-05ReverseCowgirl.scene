@@ -1,1 +1,121 @@
-{"Id":"SC-FM-Human-RidingBrahmin-05ReverseCowgirl","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Brahmin","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[{"From":{"ReversePath":"","Stimulation":70,"Hold":0,"Pain":0,"Tickle":0,"Comfort":40,"PainType":"None","Area":"Penis","ParticipantIndex":1},"To":{"ReversePath":null,"Stimulation":70,"Hold":30,"Pain":0,"Tickle":0,"Comfort":40,"PainType":"None","Area":"Vagina","ParticipantIndex":0}}],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M","Brahmin","FromBehind","Neutral","MidStage","Held3","Love3","Stim7","Dom-5","NullToSelf","PenisToVagina"]],"Authors":["SAVAGECABBAGE"],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Other":[],"Custom":{},"Tags":["BRAHMIN"],"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":[],"Narrative":[],"Feeling":["NEUTRAL"],"Service":["MIDSTAGE"],"Attribute":["FROMBEHIND"],"Contact":[["NULLTOSELF","PENISTOVAGINA"]],"Numeric":["HELD3","LOVE3","STIM7","DOM-5"],"ActorTypes":["F_M"],"Other":[],"Unknown":["BRAHMIN"]}}
+{
+  "Id": "SC-FM-Human-RidingBrahmin-05ReverseCowgirl",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Brahmin",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [
+    {
+      "From": {
+        "ReversePath": "",
+        "Stimulation": 70,
+        "Hold": 0,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 40,
+        "PainType": "None",
+        "Area": "Penis",
+        "ParticipantIndex": 1
+      },
+      "To": {
+        "ReversePath": null,
+        "Stimulation": 70,
+        "Hold": 30,
+        "Pain": 0,
+        "Tickle": 0,
+        "Comfort": 40,
+        "PainType": "None",
+        "Area": "Vagina",
+        "ParticipantIndex": 0
+      }
+    }
+  ],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M",
+      "Brahmin",
+      "FromBehind",
+      "Neutral",
+      "MidStage",
+      "Held3",
+      "Love3",
+      "Stim7",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": [
+    "SAVAGECABBAGE"
+  ],
+  "Narrative": [],
+  "Feeling": [
+    "NEUTRAL"
+  ],
+  "Service": [
+    "MIDSTAGE"
+  ],
+  "Attribute": [
+    "FROMBEHIND"
+  ],
+  "Other": [],
+  "Custom": {},
+  "Tags": [
+    "BRAHMIN"
+  ],
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [],
+    "Narrative": [],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMBEHIND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE3",
+      "STIM7",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": [
+      "BRAHMIN"
+    ]
+  }
+}

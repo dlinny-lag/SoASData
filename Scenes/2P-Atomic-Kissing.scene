@@ -1,1 +1,77 @@
-{"Id":"2P-Atomic-Kissing","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rugft","2P","NoFurn","Kissing","Loving","Held1","Stim1","Love9","Dom0","NullToSelf","MouthToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUGFT"],"Furniture":["NOFURN"],"Narrative":["KISSING"],"Feeling":["LOVING"],"Service":[],"Attribute":[],"Contact":[["NULLTOSELF","MOUTHTOMOUTH"]],"Numeric":["HELD1","STIM1","LOVE9","DOM0"],"ActorTypes":["2P"],"Other":[],"Unknown":[]}}
+{
+  "Id": "2P-Atomic-Kissing",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rugft",
+      "2P",
+      "NoFurn",
+      "Kissing",
+      "Loving",
+      "Held1",
+      "Stim1",
+      "Love9",
+      "Dom0",
+      "NullToSelf",
+      "MouthToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUGFT"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "KISSING"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM1",
+      "LOVE9",
+      "DOM0"
+    ],
+    "ActorTypes": [
+      "2P"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

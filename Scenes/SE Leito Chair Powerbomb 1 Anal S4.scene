@@ -1,1 +1,88 @@
-{"Id":"SE Leito Chair Powerbomb 1 Anal S4","Type":"Single","Furniture":["ArmChair","Bench","ChairModernDomestic","Couches"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Leito","F_M","ArmChair","Powerbomb","FromFront","Neutral","Held1","Love3","Stim1","Dom-3","NullToSelf","PenisToAnus","SF:F=F - Leito Chair Powerbomb Anal 1-3:M=M - Leito Chair Powerbomb Anal 1-3"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["LEITO"],"Furniture":["ARMCHAIR"],"Narrative":["POWERBOMB"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","PENISTOANUS"]],"Numeric":["HELD1","LOVE3","STIM1","DOM-3"],"ActorTypes":["F_M"],"Other":["SF:F=F - LEITO CHAIR POWERBOMB ANAL 1-3:M=M - LEITO CHAIR POWERBOMB ANAL 1-3"],"Unknown":[]}}
+{
+  "Id": "SE Leito Chair Powerbomb 1 Anal S4",
+  "Type": "Single",
+  "Furniture": [
+    "ArmChair",
+    "Bench",
+    "ChairModernDomestic",
+    "Couches"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Leito",
+      "F_M",
+      "ArmChair",
+      "Powerbomb",
+      "FromFront",
+      "Neutral",
+      "Held1",
+      "Love3",
+      "Stim1",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToAnus",
+      "SF:F=F - Leito Chair Powerbomb Anal 1-3:M=M - Leito Chair Powerbomb Anal 1-3"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "LEITO"
+    ],
+    "Furniture": [
+      "ARMCHAIR"
+    ],
+    "Narrative": [
+      "POWERBOMB"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "LOVE3",
+      "STIM1",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [
+      "SF:F=F - LEITO CHAIR POWERBOMB ANAL 1-3:M=M - LEITO CHAIR POWERBOMB ANAL 1-3"
+    ],
+    "Unknown": []
+  }
+}

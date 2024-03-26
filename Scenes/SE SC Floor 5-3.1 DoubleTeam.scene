@@ -1,1 +1,71 @@
-{"Id":"SE SC Floor 5-3.1 DoubleTeam","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_M_F","NoFurn","StraponToAnus","PenisToMouth","SF:F=F1 - SC Floor 5-3.1:F=F2 - SC Floor 5-3.1"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":[],"Contact":[["STRAPONTOANUS","PENISTOMOUTH"]],"Numeric":[],"ActorTypes":["F_M_F"],"Other":["SF:F=F1 - SC FLOOR 5-3.1:F=F2 - SC FLOOR 5-3.1"],"Unknown":[]}}
+{
+  "Id": "SE SC Floor 5-3.1 DoubleTeam",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_M_F",
+      "NoFurn",
+      "StraponToAnus",
+      "PenisToMouth",
+      "SF:F=F1 - SC Floor 5-3.1:F=F2 - SC Floor 5-3.1"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [],
+    "Contact": [
+      [
+        "STRAPONTOANUS",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [],
+    "ActorTypes": [
+      "F_M_F"
+    ],
+    "Other": [
+      "SF:F=F1 - SC FLOOR 5-3.1:F=F2 - SC FLOOR 5-3.1"
+    ],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,77 @@
-{"Id":"Deathclaw Spooning Staged Normal","Type":"Sequence","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"Deathclaw","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Brave","NoFurn","Carry","FromSide","Neutral","Held5","Stim9","Love3","Dom-3","NullToSelf","PenisToEither"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BRAVE"],"Furniture":["NOFURN"],"Narrative":["CARRY"],"Feeling":["NEUTRAL"],"Service":[],"Attribute":["FROMSIDE"],"Contact":[["NULLTOSELF","PENISTOEITHER"]],"Numeric":["HELD5","STIM9","LOVE3","DOM-3"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "Deathclaw Spooning Staged Normal",
+  "Type": "Sequence",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Deathclaw",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Brave",
+      "NoFurn",
+      "Carry",
+      "FromSide",
+      "Neutral",
+      "Held5",
+      "Stim9",
+      "Love3",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToEither"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BRAVE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "CARRY"
+    ],
+    "Feeling": [
+      "NEUTRAL"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMSIDE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOEITHER"
+      ]
+    ],
+    "Numeric": [
+      "HELD5",
+      "STIM9",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

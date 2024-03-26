@@ -1,1 +1,85 @@
-{"Id":"SC-FMM-FeralGhoul-Floor01-08Finish","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_FGhoulM","NoFurn","Rough","Tease","Held3","Love1","Stim3","Dom-3","NullToSelf","PenisToVagina","PenisToAnus"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":[],"Feeling":["ROUGH"],"Service":[],"Attribute":["TEASE"],"Contact":[["NULLTOSELF","PENISTOVAGINA","PENISTOANUS"]],"Numeric":["HELD3","LOVE1","STIM3","DOM-3"],"ActorTypes":["F_FGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FMM-FeralGhoul-Floor01-08Finish",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_FGhoulM",
+      "NoFurn",
+      "Rough",
+      "Tease",
+      "Held3",
+      "Love1",
+      "Stim3",
+      "Dom-3",
+      "NullToSelf",
+      "PenisToVagina",
+      "PenisToAnus"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [],
+    "Feeling": [
+      "ROUGH"
+    ],
+    "Service": [],
+    "Attribute": [
+      "TEASE"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOVAGINA",
+        "PENISTOANUS"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE1",
+      "STIM3",
+      "DOM-3"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

@@ -1,1 +1,76 @@
-{"Id":"NooseHighTied01","Type":"Single","Furniture":["GallowsFurniture"],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["GrayUser","utility","hidden","F","Gallows","Bound","Hung","Held7","Love-9","Stim0","Dom-1","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["GRAYUSER"],"Furniture":["GALLOWS"],"Narrative":["HUNG"],"Feeling":[],"Service":["UTILITY","HIDDEN"],"Attribute":["BOUND"],"Contact":[["NULLTOSELF"]],"Numeric":["HELD7","LOVE-9","STIM0","DOM-1"],"ActorTypes":["F"],"Other":[],"Unknown":[]}}
+{
+  "Id": "NooseHighTied01",
+  "Type": "Single",
+  "Furniture": [
+    "GallowsFurniture"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "GrayUser",
+      "utility",
+      "hidden",
+      "F",
+      "Gallows",
+      "Bound",
+      "Hung",
+      "Held7",
+      "Love-9",
+      "Stim0",
+      "Dom-1",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "GRAYUSER"
+    ],
+    "Furniture": [
+      "GALLOWS"
+    ],
+    "Narrative": [
+      "HUNG"
+    ],
+    "Feeling": [],
+    "Service": [
+      "UTILITY",
+      "HIDDEN"
+    ],
+    "Attribute": [
+      "BOUND"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD7",
+      "LOVE-9",
+      "STIM0",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

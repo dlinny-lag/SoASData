@@ -1,1 +1,76 @@
-{"Id":"TD_FFrame_Fuck01","Type":"Single","Furniture":["TD_FFrame"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Vader666","F_M","FFrame","Bound","Held9","Love-5","Stim0","Dom-9","FromFront","PenisToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["VADER666"],"Furniture":["FFRAME"],"Narrative":[],"Feeling":[],"Service":[],"Attribute":["BOUND","FROMFRONT"],"Contact":[["PENISTOVAGINA"]],"Numeric":["HELD9","LOVE-5","STIM0","DOM-9"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "TD_FFrame_Fuck01",
+  "Type": "Single",
+  "Furniture": [
+    "TD_FFrame"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Vader666",
+      "F_M",
+      "FFrame",
+      "Bound",
+      "Held9",
+      "Love-5",
+      "Stim0",
+      "Dom-9",
+      "FromFront",
+      "PenisToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "VADER666"
+    ],
+    "Furniture": [
+      "FFRAME"
+    ],
+    "Narrative": [],
+    "Feeling": [],
+    "Service": [],
+    "Attribute": [
+      "BOUND",
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "PENISTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD9",
+      "LOVE-5",
+      "STIM0",
+      "DOM-9"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

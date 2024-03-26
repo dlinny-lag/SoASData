@@ -1,1 +1,85 @@
-{"Id":"Atomic Cunnilingus PA","Type":"Single","Furniture":["Power Armor Station"],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"Human","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["Rufgt","F_M","PAStation","Cunnilingus","FromFront","Loving","MidStage","Held1","Stim9","Love5","Dom-1","NullToSelf","MouthToVagina"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["RUFGT"],"Furniture":["PASTATION"],"Narrative":["CUNNILINGUS"],"Feeling":["LOVING"],"Service":["MIDSTAGE"],"Attribute":["FROMFRONT"],"Contact":[["NULLTOSELF","MOUTHTOVAGINA"]],"Numeric":["HELD1","STIM9","LOVE5","DOM-1"],"ActorTypes":["F_M"],"Other":[],"Unknown":[]}}
+{
+  "Id": "Atomic Cunnilingus PA",
+  "Type": "Single",
+  "Furniture": [
+    "Power Armor Station"
+  ],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "Human",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "Rufgt",
+      "F_M",
+      "PAStation",
+      "Cunnilingus",
+      "FromFront",
+      "Loving",
+      "MidStage",
+      "Held1",
+      "Stim9",
+      "Love5",
+      "Dom-1",
+      "NullToSelf",
+      "MouthToVagina"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "RUFGT"
+    ],
+    "Furniture": [
+      "PASTATION"
+    ],
+    "Narrative": [
+      "CUNNILINGUS"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [
+      "MIDSTAGE"
+    ],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "MOUTHTOVAGINA"
+      ]
+    ],
+    "Numeric": [
+      "HELD1",
+      "STIM9",
+      "LOVE5",
+      "DOM-1"
+    ],
+    "ActorTypes": [
+      "F_M"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}

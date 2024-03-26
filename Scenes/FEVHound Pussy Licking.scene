@@ -1,1 +1,83 @@
-{"Id":"FEVHound Pussy Licking","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Any","IsAggressor":false,"IsVictim":false},{"Skeleton":"FEVHound","Sex":"Any","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["MouthToVagina:1-0"],["Brave","NoFurn","Foreplay","Cunnilingus","FromFront","Loving","Held3","Stim3","Love3","Dom-3","NullToSelf"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["BRAVE"],"Furniture":["NOFURN"],"Narrative":["FOREPLAY","CUNNILINGUS"],"Feeling":["LOVING"],"Service":[],"Attribute":["FROMFRONT"],"Contact":[["MOUTHTOVAGINA:1-0"],["NULLTOSELF"]],"Numeric":["HELD3","STIM3","LOVE3","DOM-3"],"ActorTypes":[],"Other":[],"Unknown":[]}}
+{
+  "Id": "FEVHound Pussy Licking",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FEVHound",
+      "Sex": "Any",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "MouthToVagina:1-0"
+    ],
+    [
+      "Brave",
+      "NoFurn",
+      "Foreplay",
+      "Cunnilingus",
+      "FromFront",
+      "Loving",
+      "Held3",
+      "Stim3",
+      "Love3",
+      "Dom-3",
+      "NullToSelf"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "BRAVE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "FOREPLAY",
+      "CUNNILINGUS"
+    ],
+    "Feeling": [
+      "LOVING"
+    ],
+    "Service": [],
+    "Attribute": [
+      "FROMFRONT"
+    ],
+    "Contact": [
+      [
+        "MOUTHTOVAGINA:1-0"
+      ],
+      [
+        "NULLTOSELF"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "STIM3",
+      "LOVE3",
+      "DOM-3"
+    ],
+    "ActorTypes": [],
+    "Other": [],
+    "Unknown": []
+  }
+}

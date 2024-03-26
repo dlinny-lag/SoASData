@@ -1,1 +1,86 @@
-{"Id":"SC-FM-FeralGhoul-Standing02-07Climax","Type":"Single","Furniture":[],"Participants":[{"Skeleton":"Human","Sex":"Female","IsAggressor":false,"IsVictim":false},{"Skeleton":"FeralGhoul","Sex":"Male","IsAggressor":false,"IsVictim":false}],"ActorsContacts":[],"EnvironmentContacts":[],"RawTags":[["SavageCabbage","F_FGhoulM","NoFurn","Kneeling","Blowjob","FromFront","Rough","Aggressive","ClimaxM","Held3","Love0","Stim1","Dom-5","NullToSelf","PenisToMouth"]],"Authors":null,"Narrative":null,"Feeling":null,"Service":null,"Attribute":null,"Other":null,"Custom":{},"Tags":null,"Imported":{"Author":["SAVAGECABBAGE"],"Furniture":["NOFURN"],"Narrative":["BLOWJOB"],"Feeling":["ROUGH","AGGRESSIVE"],"Service":[],"Attribute":["KNEELING","FROMFRONT","CLIMAXM"],"Contact":[["NULLTOSELF","PENISTOMOUTH"]],"Numeric":["HELD3","LOVE0","STIM1","DOM-5"],"ActorTypes":["F_FGHOULM"],"Other":[],"Unknown":[]}}
+{
+  "Id": "SC-FM-FeralGhoul-Standing02-07Climax",
+  "Type": "Single",
+  "Furniture": [],
+  "Participants": [
+    {
+      "Skeleton": "Human",
+      "Sex": "Female",
+      "IsAggressor": false,
+      "IsVictim": false
+    },
+    {
+      "Skeleton": "FeralGhoul",
+      "Sex": "Male",
+      "IsAggressor": false,
+      "IsVictim": false
+    }
+  ],
+  "ActorsContacts": [],
+  "EnvironmentContacts": [],
+  "RawTags": [
+    [
+      "SavageCabbage",
+      "F_FGhoulM",
+      "NoFurn",
+      "Kneeling",
+      "Blowjob",
+      "FromFront",
+      "Rough",
+      "Aggressive",
+      "ClimaxM",
+      "Held3",
+      "Love0",
+      "Stim1",
+      "Dom-5",
+      "NullToSelf",
+      "PenisToMouth"
+    ]
+  ],
+  "Authors": null,
+  "Narrative": null,
+  "Feeling": null,
+  "Service": null,
+  "Attribute": null,
+  "Other": null,
+  "Custom": {},
+  "Tags": null,
+  "Imported": {
+    "Author": [
+      "SAVAGECABBAGE"
+    ],
+    "Furniture": [
+      "NOFURN"
+    ],
+    "Narrative": [
+      "BLOWJOB"
+    ],
+    "Feeling": [
+      "ROUGH",
+      "AGGRESSIVE"
+    ],
+    "Service": [],
+    "Attribute": [
+      "KNEELING",
+      "FROMFRONT",
+      "CLIMAXM"
+    ],
+    "Contact": [
+      [
+        "NULLTOSELF",
+        "PENISTOMOUTH"
+      ]
+    ],
+    "Numeric": [
+      "HELD3",
+      "LOVE0",
+      "STIM1",
+      "DOM-5"
+    ],
+    "ActorTypes": [
+      "F_FGHOULM"
+    ],
+    "Other": [],
+    "Unknown": []
+  }
+}
